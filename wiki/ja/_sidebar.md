@@ -1,0 +1,1 @@
+  - [TEST-PAGE](wiki/ja/test.md)

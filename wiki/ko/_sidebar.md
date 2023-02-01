@@ -1,0 +1,1 @@
+  - [TEST-PAGE](wiki/ko/test.md)

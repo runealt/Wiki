@@ -28,6 +28,6 @@
 
 >#### 柯涅尔家
 
->###### <img src="/assets/images/NoelPixel.webp" height="45px"> 诺艾儿·柯涅尔（<ruby>ノエル<rt>Noel</rt>·コルネール<rt>Cornehl</rt></ruby>）
+>###### <img src="/assets/images/zh-hans/NoelPixel.webp" height="45px"> 诺艾儿·柯涅尔（<ruby>ノエル<rt>Noel</rt>·コルネール<rt>Cornehl</rt></ruby>）
 
-<img align="left" src="/assets/images/NoelCornehl.webp">TEST
+<img align="left" src="/assets/images/zh-hans/NoelCornehl.webp" height="383px">本作的女主角。<br>出身于正统精灵的炼金术师的家系中分出的柯涅尔家族的后裔，是精灵、人类和兽人的混血。<br><br>立志成为姐姐一样帅气优秀的魔法使，并对老师所说的、传说在魔法云雾外“镶嵌在夜空的天花板上的宝石般的繁星”感到憧憬。在第二天得知前一天夜里出现魔物暴动、伊夏同学陷入危险后，踏上旅途。

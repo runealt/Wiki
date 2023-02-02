@@ -1,4 +1,4 @@
-- [Contribution](contribution)
+- [Contribution](contribution/)
   - [Environment](contribution/environment.md)
   - [Common Formats](contribution/common-formats.md)
 - Wiki 

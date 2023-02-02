@@ -4,7 +4,7 @@ If your form is relatively complex, please [click here](contribution/formats-exc
 
 Tips: You can display the vertical bar (|) character in a table using the table's HTML character code (&#124;).
 
-#### Simple Sample 1
+#### Basic table syntax
 
 ```
 | Syntax | Description |
@@ -18,20 +18,7 @@ Tips: You can display the vertical bar (|) character in a table using the table'
 | Header | Title |
 | Paragraph | Text |
 
-#### Simple Sample 2
-
-```
-| Syntax      | Description |
-| --- | -------------------- |
-| Header | Title |
-| Paragraph | Text |
-```
-| Syntax      | Description |
-| --- | -------------------- |
-| Header | Title |
-| Paragraph | Text |
-
-#### Simple Sample 3
+#### Use `:` to set text alignment.
 
 ```
 | Syntax | Description | Test Text |
@@ -45,7 +32,7 @@ Tips: You can display the vertical bar (|) character in a table using the table'
 | Header | Title | Here's this |
 | Paragraph | Text | And more |
 
-#### Complex Sample 1
+#### Use `<br>` to wrap text inside a cell.
 
 ```
 | Syntax | Description |
@@ -59,7 +46,9 @@ Tips: You can display the vertical bar (|) character in a table using the table'
 | Header | Title_Line_1<br>Title_Line_2 |
 | Paragraph | Text_Line_1<br>Text_Line_2<br>Text_Line_3 |
 
-#### Complex Sample 2
+#### Merge cells by adding parameters `colspan` and `rowspan`.
+
+The number after `colspan` and `rowspan` indicates the number of cells merged to the right or down from this cell +1.
 
 ```
 <table>
@@ -129,7 +118,7 @@ Example:
     </tr>
 </table>
 
-#### Complex Sample 3
+##### Another sample-1 of merged cells.
 
 ```
 <table>
@@ -166,7 +155,7 @@ Example:
     </tr>
 </table>
 
-#### Complex Sample 4
+##### Another sample-2 of merged cells.
 
 ```
 <table>

@@ -1,1 +1,0 @@
-This is a placeholder temporary file for testing paging functionality.

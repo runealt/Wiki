@@ -2,7 +2,7 @@
 
 If your form is relatively complex, please [click here](contribution/formats-excel-to-form.md) to learn how to use Excel to make a table and import it to the page.
 
-Tips: You can display the vertical bar (|) character in a table using the table's HTML character code (&#124;).
+Tips: You can display the vertical bar `|` character in a table using the table's HTML character code `&#124;`.
 
 #### Basic table syntax
 

@@ -2,15 +2,15 @@
 
 1.Create tables using Excel.
 
-![excel-1](assets/images/formats-excel-to-form/contribution-formats-form-excel-1.png)
+![excel-1](../assets/images/formats-excel-to-form/contribution-formats-form-excel-1.png)
 
 2.Save as web page file (HTML/HTM).
 
-![excel-2](assets/images/formats-excel-to-form/contribution-formats-form-excel-2.png)
+![excel-2](../assets/images/formats-excel-to-form/contribution-formats-form-excel-2.png)
 
 3.Open the saved HTML/HTM file with a browser. Then right click anywhere in the table and click "Inspect"
 
-![excel-3](assets/images/formats-excel-to-form/contribution-formats-form-excel-3.png)
+![excel-3](../assets/images/formats-excel-to-form/contribution-formats-form-excel-3.png)
 
 4.Find the line containing <table> in the right window.
   
@@ -26,7 +26,7 @@
 
 7.Delete the content from ` <!--[if supportMisalignedColumns]-->` to ` <!--[endif]-->`.
   
-!>If you want to center the title, add `align="center"` to the `<td>` of the title. Also you can add `bgcolor="{rgb_code}"` to the `<td>` for Back Ground Color and add `color="{rgb_code}"` to the `<td>` for Text Color.
+!>If you want to center the title, add `align="center"` to the `<td>` of the title. Also you can add `bgcolor="{rgb_code}"` to the `<td>` for Back Ground Color and add `style="color:{rgb_code}"` to the `<td>` for Text Color.
   
 Original:
 
@@ -92,7 +92,7 @@ Edited:
  collapse;table-layout:fixed;width:260pt">
  <colgroup><col width="69" span="5" style="width:52pt">
  </colgroup><tbody><tr height="19" style="height:14.0pt">
-  <td align="center" bgcolor="#ff6666" color="#ffffff" colspan="5" height="19" class="xl65" width="345" style="height:14.0pt;width:260pt">Excel
+  <td align="center" bgcolor="#ff6666" style="color:#ffffff" colspan="5" height="19" class="xl65" width="345" style="height:14.0pt;width:260pt">Excel
   to Wiki Example</td>
  </tr>
  <tr height="19" style="height:14.0pt">
@@ -139,7 +139,7 @@ Sample:
  collapse;table-layout:fixed;width:260pt">
  <colgroup><col width="69" span="5" style="width:52pt">
  </colgroup><tbody><tr height="19" style="height:14.0pt">
-  <td align="center" bgcolor="#ff6666" color="#ffffff" colspan="5" height="19" class="xl65" width="345" style="height:14.0pt;width:260pt">Excel
+  <td align="center" bgcolor="#ff6666" style="color:#ffffff" colspan="5" height="19" class="xl65" width="345" style="height:14.0pt;width:260pt">Excel
   to Wiki Example</td>
  </tr>
  <tr height="19" style="height:14.0pt">

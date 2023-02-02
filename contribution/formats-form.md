@@ -114,7 +114,7 @@ Example:
       	 <td colspan="2">Merge rows across two columns</td>    
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ff6666" bgcolor="#ff6666" style="color:#ffffff">Merge rows across tree columns</td>    
+        <td colspan="3" align="center" bgcolor="#ff6666" style="color:#ffffff">Merge rows across tree columns</td>    
     </tr>
 </table>
 

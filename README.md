@@ -1,6 +1,6 @@
 ### About Wiki
 
-This is a Wiki backup. Prevent the loss of Wiki content due to various problems with the Wiki website.
+Wiki of AliceInCradle
 <br>
 All pages are written via Markdown and a small amount of HTML.
 <br>

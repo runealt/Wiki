@@ -34,4 +34,4 @@
 
 >###### <img src="/assets/images/zh-hans/LaevigataPixel.webp" height="20px"> 丽薇歌塔·柯涅尔（<ruby>レヴィガータ<rt>Laevigata</rt>·コルネール<rt>Cornehl</rt></ruby>）
 
-<table><img align="left" src="/assets/images/zh-hans/LaevigataCornehl.webp" width="260px" hspace="30px">角色设计：<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://twitter.com/futausa155">ふた@ナベフタ工房</a><br>诺艾儿的二姐。<br>经营着一家魔法杂货店，也就是游戏中的据点“魔女杂货店”，诺艾儿一家也居住在这里。~~自家人买东西还收钱的屑姐姐~~<br>不过由于位于森林深处，而且荆棘众多，导致她的杂货店鲜有人光顾，再加上本人魔法技艺非常优秀，导致关于诺艾儿家出现了许多奇怪的“都市传说”。<br><br>魔女杂货店除了售卖物品之外，还会为前来的客人提供一些各种你懂的服务。>!从剧情对话中可以看出姐姐貌似很喜欢各种奇怪的SM，比如荆棘play和掐脖play!<>!谁让这是R18游戏呢!<</table>
+<table><img align="left" src="/assets/images/zh-hans/LaevigataCornehl.webp" width="260px" hspace="30px">角色设计：<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://twitter.com/futausa155">ふた@ナベフタ工房</a><br>诺艾儿的二姐。<br>经营着一家魔法杂货店，也就是游戏中的据点“魔女杂货店”，诺艾儿一家也居住在这里。~~自家人买东西还收钱的屑姐姐~~<br>不过由于位于森林深处，而且荆棘众多，导致她的杂货店鲜有人光顾，再加上本人魔法技艺非常优秀，导致关于诺艾儿家出现了许多奇怪的“都市传说”。<br><br>魔女杂货店除了售卖物品之外，还会为前来的客人提供一些各种你懂的服务。从剧情对话中可以看出姐姐貌似很喜欢各种奇怪的SM，比如荆棘play和掐脖play。谁让这是R18游戏呢</table>

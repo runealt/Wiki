@@ -1,11 +1,6 @@
 ### Form
 
-If your form is relatively complex, please follow the steps below to make the form.
-
-1. Use Microsoft Excel to make tables and save as HTML
-2. Open the saved htm/html file with a text editor
-3. Copy everything from `<table>` to `</table>` (including `<table>` and `</table>`)
-4. Paste them where needed (no need to delete any parameters)
+If your form is relatively complex, please [click here](contribution/formats-excel-to-form.md) to learn how to use Excel to make a table and import it to the page.
 
 Tips: You can display the vertical bar (|) character in a table using the table's HTML character code (&#124;).
 

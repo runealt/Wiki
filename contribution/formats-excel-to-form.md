@@ -14,15 +14,15 @@
 
 4.Find the line containing <table> in the right window.
   
-![excel-4](assets/images/formats-excel-to-form/contribution-formats-form-excel-4.png)
+![excel-4](../assets/images/formats-excel-to-form/contribution-formats-form-excel-4.png)
 
 5.Right-click where the <table> is located and select Edit as HTML.
   
-![excel-5](assets/images/formats-excel-to-form/contribution-formats-form-excel-5.png)
+![excel-5](../assets/images/formats-excel-to-form/contribution-formats-form-excel-5.png)
   
 6.Select all the content of the edit box and copy it to the place where you want to insert the table.
 
-![excel-6](assets/images/formats-excel-to-form/contribution-formats-form-excel-6.png)
+![excel-6](../assets/images/formats-excel-to-form/contribution-formats-form-excel-6.png)
 
 7.Delete the content from ` <!--[if supportMisalignedColumns]-->` to ` <!--[endif]-->`.
   

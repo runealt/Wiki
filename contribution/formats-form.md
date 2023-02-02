@@ -98,6 +98,42 @@ Tips: You can display the vertical bar (|) character in a table using the table'
     </tr>
 </table>
 
+!>Also, you can use `<td bgcolor="{rgb-code}">content</td>` to add color to cell's background.
+
+Example:
+
+```
+<table>
+    <tr>
+        <td>row/column</td> 
+        <td>column2</td> 
+        <td>column3</td> 
+   </tr>
+    <tr>
+  		 <td>row2 column1</td> 
+      	 <td colspan="2">Merge rows across two columns</td>    
+    </tr>
+    <tr>
+        <td colspan="3" bgcolor="#ff6666">Merge rows across tree columns</td>    
+    </tr>
+</table>
+```
+
+<table>
+    <tr>
+        <td>row/column</td> 
+        <td>column2</td> 
+        <td>column3</td> 
+   </tr>
+    <tr>
+  		 <td>row2 column1</td> 
+      	 <td colspan="2">Merge rows across two columns</td>    
+    </tr>
+    <tr>
+        <td colspan="3" bgcolor="#ff6666">Merge rows across tree columns</td>    
+    </tr>
+</table>
+
 #### Complex Sample 3
 
 ```

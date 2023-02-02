@@ -6,7 +6,7 @@ All pages are written via Markdown and a small amount of HTML.
 <br>
 Also, after modification you should preview locally in advance.
 <br>
-For how to modify this wiki, please [click here](contribution) for details.
+For how to modify this wiki, please [click here](contribution/) for details.
 
 ### Languages
 

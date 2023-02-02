@@ -93,7 +93,7 @@ Tips: You can display the vertical bar (|) character in a table using the table'
     </tr>
 </table>
 
-!>Also, you can use `<td bgcolor="{rgb-code}">content</td>` to add color to cell's background.
+!>If you want to center the text, add `align="center"` to the <td> of the title. Also you can add `bgcolor="{rgb_code}"` to the <td> for Back Ground Color and add `style="color:{rgb_code}"` to the <td> for Text Color.
 
 Example:
 
@@ -109,7 +109,7 @@ Example:
       	 <td colspan="2">Merge rows across two columns</td>    
     </tr>
     <tr>
-        <td colspan="3" bgcolor="#ff6666">Merge rows across tree columns</td>    
+        <td colspan="3" align="center" bgcolor="#ff6666" style="color:#ffffff">Merge rows across tree columns</td>    
     </tr>
 </table>
 ```

@@ -27,6 +27,8 @@
 7.Delete the content from ` <!--[if supportMisalignedColumns]-->` to ` <!--[endif]-->`.
   
 !>If you want to center the title, add `align="center"` to the `<td>` of the title. Also you can add `bgcolor="{rgb_code}"` to the `<td>` for Back Ground Color and add `style="color:{rgb_code}"` to the `<td>` for Text Color.
+
+!>Don't worry about `width=*` `style="width:*` `height=*` `style="height:*"` will limit the size of the cell, if you modify the text content and the cell cannot accommodate the text content , the cell will be automatically resized so that the display of the table is no problem.
   
 Original:
 

@@ -8,7 +8,7 @@ Also, after modification you should preview locally in advance.
 <br>
 For how to modify this wiki, please [click here](contribution/contribute.md) for details.
 
-### Languages
+### Languages of Wiki
 
 - [[English]](wiki/en/)
 - [[日本語]](wiki/ja/)

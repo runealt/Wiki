@@ -10,6 +10,6 @@
 
 ![for_bermit_students_3](../../../assets/images/wiki/other/world_outlook/for_bermit_students_3.png)
 
-![Noel_Profile_En](../../../assets/images/wiki/other/world_outlook/Noel_Profile_En.png)
+![Noel_Profile_En](../../../assets/images/wiki/other/world_outlook/Noel_Profile_En.jpg)
 
-![Regions](../../../assets/images/wiki/other/world_outlook/Regions.png)
+![Regions](../../../assets/images/wiki/other/world_outlook/Regions.jpg)

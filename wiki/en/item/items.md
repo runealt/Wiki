@@ -15,4 +15,4 @@
 
 <!-- The table here is written directly, without Excel file. -->
 
-<script type="text/javascript" src="wiki/en/Item/tables/items.js"></script>
+<script type="text/javascript" src="wiki/en/item/tables/items.js"></script>

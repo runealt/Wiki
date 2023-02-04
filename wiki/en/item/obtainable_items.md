@@ -2,6 +2,8 @@
 
 <!-- images or urls list for this page -->
 [Chest Map]:  wiki/en/map/chest_locations
+[Alchemy]: wiki/en/item/recipes
+[Mining Point]: wiki/en/map/gathering_locations
 
 ### Valuables :id=v
 
@@ -21,9 +23,9 @@
 | Blood Cherry | Fruit | Gather from Tree、Buy from Laevi、Fruit1~2 |   |
 | Blood Apple | Fruit | Gather from Tree、Buy from Laevi、Fruit1~2 |   |
 | Blood Pine | Fruit | Gather from Tree、Buy from Laevi、Fruit1~2 |   |
-| Magical Gummy | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、Alchemy |   |
-| Vital Gummy | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、Alchemy |   |
-| Life Bottle | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、Alchemy |   |
+| Magical Gummy | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、[Alchemy] |   |
+| Vital Gummy | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、[Alchemy] |   |
+| Life Bottle | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、[Alchemy] |   |
 | Ankh of Gracia | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi |   |
 | Purple Malus | ??? | Buy from Laevi |   |
 | Fresh Water | Water | Gather from Tree、Buy from Merchant(Nightingale)、Buy from Laevi |   |
@@ -31,7 +33,7 @@
 | Noel Juice | Water | If there is an empty bottle, the liquid can be obtained automatically when Noel squirts or leaks liquid. It is said to have magical power restoration abilities, but... |   |
 | Gell | Meat | Monster Material1~3、Buy from Laevi |   |
 | Monster's Meat | Meat | Monster Material 2、Meat Count 1、Buy from Laevi |   |
-| Livestock Meat | Meat | Buy from Merchant(Nightingale)、"Mining PointO" |   |
+| Livestock Meat | Meat | Buy from Merchant(Nightingale)、"[Mining Point]O" |   |
 | Livestock Egg | Egg | Buy from Merchant(Nightingale) |   |
 | Noel's Egg | Egg | Eggs laid by Noel after getting incubated by monsters |   |
 | Mushroom | Mushroom | Gather from Tree、Mushroom1、Buy from Merchant(Nightingale) |   |
@@ -59,7 +61,7 @@
 | Amethyst | Other | Buy from Laevi、Buy from Merchant(Nightingale) |  |
 | Monster's Skin | Other | Buy from Laevi |   |
 | Glass Shard | Other | Monster Material1~3、Buy from Laevi |   |
-| Empty Bottle | Other | Buy from Laevi、Buy from Merchant(Nightingale)、Alchemy |   |
+| Empty Bottle | Other | Buy from Laevi、Buy from Merchant(Nightingale)、[Alchemy] |   |
 | Coal | Other | Gather from Tree、Ore 1、Buy from Laevi、Buy from Merchant(Nightingale) |   |
 | Quartz | Other | Gather from Tree、Ore 1、Buy from Laevi、Buy from Merchant(Nightingale) |   |
 | Lunch Box | Other | Buy from Laevi | Can be bought once  |

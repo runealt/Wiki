@@ -1,1 +1,6 @@
-  - [TEST-PAGE](wiki/en/test.md)
+- Table of Contents
+  - [Control List](wiki/en/table_of_contents/control_list)
+  - [Skill](wiki/en/table_of_contents/skill)
+  - [Spell](wiki/en/table_of_contents/spell)
+- Map
+  - [Chest Locations](wiki/en/map/chest_locations) 

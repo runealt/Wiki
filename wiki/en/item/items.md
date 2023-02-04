@@ -13,7 +13,9 @@
 
 ### Item
 
-<!-- The table here is written directly, without Excel file. -->
+<!-- The table here is copied directly from atwiki -->
+<!-- I was going to write it directly, but there is so much content that I don't want to retype it all. -->
+<!-- I only added rowspan="2"  to "Max Stacking Count" and removed one <td></td> -->
 
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">Item Name</td>
@@ -21,7 +23,7 @@
 		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">Ingredient Effect &amp; Item Function</td>
 		<td style="background-color:#CFC;text-align:center;" colspan="5">Food Effect</td>
 		<td style="background-color:#CFC;text-align:center;" colspan="5">Item Effect</td>
-		<td style="background-color:#CFC;text-align:center;">Max Stacking Count</td></tr>
+		<td style="background-color:#CFC;text-align:center;" rowspan="2">Max Stacking Count</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">
 		<td style="">1★</td>
 		<td style="">2★</td>
@@ -33,7 +35,7 @@
 		<td style="">3★</td>
 		<td style="">4★</td>
 		<td style="">5★</td>
-		<td style=""></td></tr>
+		</tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">Vital Gummy</td>
 		<td style=""> Recovery</td>
 		<td style="">HP Recovery</td>
@@ -805,3 +807,10 @@
 		<td style="text-align:center;" colspan="5">-</td>
 		<td style="">-</td></tr>
 </tbody></table>
+
+### Event Item
+| Item Name | Description |
+| --- | --- |
+| Moonlight Muguet's Bulb | It is said to be highly poisonous. Nee-sama strongly warned me not to nibble on it. |
+| Black-striped Herb | Nee-sama saids; when you make it into an essential oil, you feel very fluffy and can feel so much better~! |
+Old Container	A time capsule buried a long time ago with Nee-sama.Nee-sama's dream is ..R-really...?

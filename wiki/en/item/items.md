@@ -1,7 +1,7 @@
 ### Valuables
 
 | Item Name	| Description	| Notes |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Old Healer Uniform | A military uniform used in the Elven village,<br>handed down by my grandmother. | - |
 | Mana-meter | A device that detects the direction of magic, and informs the user of the approximate level of danger in their current location.<br>It is an indispensable item for adventurers, and it is recommended that you return to your home as soon as its colour turns dark. | - |
 | Cotton undergarments | White panties with a bow on the front.	| - |

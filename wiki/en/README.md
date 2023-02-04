@@ -5,4 +5,3 @@
 
 !>The information on this WIKI is created with <font color=#56bcf9>HinaYua's</font> & <font color=#f6c5cb>Mizuha Hashino's</font> permission.
 
-### Table of contents :id=tof

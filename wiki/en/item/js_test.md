@@ -1,1 +1,1 @@
-<script style="text/javascript" src="wiki/en/item/tables/item.js"></script>
+<iframe>wiki/en/item/tables/item.html</iframe>

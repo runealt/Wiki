@@ -813,4 +813,4 @@
 | --- | --- |
 | Moonlight Muguet's Bulb | It is said to be highly poisonous. Nee-sama strongly warned me not to nibble on it. |
 | Black-striped Herb | Nee-sama saids; when you make it into an essential oil, you feel very fluffy and can feel so much better~! |
-Old Container	A time capsule buried a long time ago with Nee-sama.Nee-sama's dream is ..R-really...?
+| Old Container | A time capsule buried a long time ago with Nee-sama.Nee-sama's dream is ..R-really...? |

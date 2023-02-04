@@ -1,5 +1,10 @@
 ### How to use Excel to make a table and import it to the page?
 
+Use The Recommend Automatic Tools:
+https://github.com/fanfeilong/exceltk
+
+Or
+
 1.Create tables using Excel.
 
 ![excel-1](../assets/images/formats-excel-to-form/contribution-formats-form-excel-1.png)

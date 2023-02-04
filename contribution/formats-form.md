@@ -2,6 +2,8 @@
 
 If your form is relatively complex, please [click here](contribution/formats-excel-to-form.md) to learn how to use Excel to make a table and import it to the page.
 
+If you want to use a visual editor, you can try [[TableConvert]](https://tableconvert.com/markdown-generator).<br>Please note: Please uncheck "Pretty-print your Markdown"< br>In addition, this tool only supports a maximum of 20x20. If you need to make a larger table, you can make multiple parts and stitch them together.<br>When splicing, you should delete the redundant `|` and `| --- |`.
+
 Tips: You can display the vertical bar `|` character in a table using the table's HTML character code `&#124;`.
 
 #### Basic table syntax

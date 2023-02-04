@@ -1,4 +1,4 @@
-<table>
+let jsValue = `<table>
     <!--Line 1 for Title-->
     <tr>
         <td rowspan="2">Item Name</td>
@@ -80,4 +80,4 @@
         <td>100</td>
         <td>120</td>
         <td>8</td>
-    </tr>
+    </tr>`;

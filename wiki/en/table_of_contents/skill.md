@@ -30,23 +30,23 @@
 | Shield | `Shift` | Protect yourself from enemy attacks and toxic fumes.<br>The shield will break if it takes too many attacks. | 1st Day Event |
 | Dodge	| `Shift` + `←` or `→` | Briefly become invincible and avoid enemy attacks.<br>Distanced traveled can be increased by holding `←` or `→` longer.<br>Can also be used in mid-air to extend hang time. | 1st Day Event |
 | Feline Reflexes	| The moment Noel hits the ground press `Shift` + `←` or `→`	When knocked back by an enemy, perform a dodge when you land to immediately get back on your feet.<br>If used while you have a condition that prevents dodging (e.g. Exhausted), you will fall over afterwards.	| 1st Day Event |
-| Shield Bash	| While shielding + `Z`	| Release the shield's energy.<br>Can be used to parry an enemy's attack and knock them down.	| [Map Chest](wiki/en/map/chest_locations) |
-| Orbital Shield | While shielding + `←` or `→` + `Z` | The shield is separated from the user and swung around.<br>A hit consumes the shield's durability, so it cannot be used many times in a row.<br>Note that if an enemy gets inside the orbit while you are swinging your shield,<br>you will become defenseless. | [Map Chest](wiki/en/map/chest_locations) |
+| Shield Bash	| While shielding + `Z`	| Release the shield's energy.<br>Can be used to parry an enemy's attack and knock them down.	| [Map Chest] |
+| Orbital Shield | While shielding + `←` or `→` + `Z` | The shield is separated from the user and swung around.<br>A hit consumes the shield's durability, so it cannot be used many times in a row.<br>Note that if an enemy gets inside the orbit while you are swinging your shield,<br>you will become defenseless. | [Map Chest] |
 
 #### HP SKill :id=hp
 
 | Skill Name | Description | How to Get|
 | --- | --- | --- |
-| Statue Talisman	| Greatly increases HP and MP, but decreases the probability of obtaining treasure chests.<br>To use it, Open the `Menu` and open `Skill Tab`, then check the `Use` checkbox.<br><font color=#e55543>Double the effect of recovery items</font>	| [Map Chest](wiki/en/map/chest_locations) |
-| HP+10	| Maximum HP increased by 10.	| [Map Chest](wiki/en/map/chest_locations) |
-| HP+20	| Maximum HP increased by 20.	| [Map Chest](wiki/en/map/chest_locations) |
+| Statue Talisman	| Greatly increases HP and MP, but decreases the probability of obtaining treasure chests.<br>To use it, Open the `Menu` and open `Skill Tab`, then check the `Use` checkbox.<br><font color=#e55543>Double the effect of recovery items</font>	| [Map Chest] |
+| HP+10	| Maximum HP increased by 10.	| [Map Chest] |
+| HP+20	| Maximum HP increased by 20.	| [Map Chest] |
 
 #### MP Skill :id=mp
 
 | Skill Name | Description | How to Get|
 | --- | --- | --- |
-| Statue Talisman	| Greatly increases HP and MP, but decreases the probability of obtaining treasure chests.<br>To use it, Open the `Menu` and open `Skill Tab`, then check the `Use` checkbox.<br><font color=#e55543>Double the effect of recovery items</font>	| [Map Chest](wiki/en/map/chest_locations) |
-| MP+20	| Maximum MP increased by 20.	| [Map Chest](wiki/en/map/chest_locations) |
+| Statue Talisman	| Greatly increases HP and MP, but decreases the probability of obtaining treasure chests.<br>To use it, Open the `Menu` and open `Skill Tab`, then check the `Use` checkbox.<br><font color=#e55543>Double the effect of recovery items</font>	| [Map Chest] |
+| MP+20	| Maximum MP increased by 20.	| [Map Chest] |
 
 #### Skill not implemented :id=ni
 

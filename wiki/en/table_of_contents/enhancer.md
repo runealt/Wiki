@@ -1,7 +1,7 @@
 ### Enhancer
 
 <!-- images or urls list for this page -->
-[COST]: ../../assets/images/wiki/table_of_contents/COST.png
+[COST]: ../../../assets/images/wiki/table_of_contents/COST.png
 [Chest Locations]:  wiki/en/map/chest_locations
 
 | Enhancer Name	| Description | Cost | How to Get |

@@ -1,5 +1,8 @@
 ### Skill
 
+<!-- images or urls list for this page -->
+[Map Chest]: wiki/en/map/chest_locations
+
 #### Attack Skill :id=attack
 
 | Skill Name | How to Use	| Description	| How to Get|
@@ -7,12 +10,12 @@
 | Punch	| `Z`	| Bash enemies with your staff at close range.<br>Weak attack power, but can be used to knock mana out of enemies. | Available from Start |
 | Shotgun	| While casting + `Z`	| Hit enemies with a burst of mana at close range, dealing significant damage.<br>The power and effect depends on the magic being chanted. | Available from Start |
 | Sliding	| `↓`+ `Z` | An unreliable downward attack.<br>If you hit an enemy or slide off a ledge, you will be knocked down. | Available from Start |
-| Cyclone Slash	| In the air `←` or `→` + `Z`	| Spin wildly and rush towards the enemy.<br>Applies shotgun effect on hit, if one is held.<br>You will be vulnerable for a brief moment after landing. | [Map Chest](wiki/en/map/chest_locations) |
-| Comet Dive | In the air `↓` + `Z` | Attack by dropping down at a high speed.<br>You will be almost invincible while falling.<br>Applies shotgun effect on hit, if one is held.<br>The power is the same as a weak attack.	| [Map Chest](wiki/en/map/chest_locations) |
-| Dash Strike	| after running for a short distance + `Z` | Dash forward and strike enemies at high speed.<br>Held shotgun effects will be applied to the first enemy hit.<br>Power is the same as a normal weak attack.	| [Map Chest](wiki/en/map/chest_locations) |
-| Air Slash	| in midair + `Z`	| Lunge forward in midair to strike enemies.<br>Held shotgun effects will be applied to the first enemy hit.<br>Power is the same as a normal weak attack. | [Map Chest](wiki/en/map/chest_locations) |
-| Shield Bash	| While shielding + `Z`	| Release the shield's energy.<br>Can be used to parry an enemy's attack and knock them down.	| [Map Chest](wiki/en/map/chest_locations) |
-| Orbital Shield | While shielding + <br>`←` or `→` + `Z`	| The shield is separated from the user and swung around.<br>A hit consumes the shield's durability, so it cannot be used many times in a row.<br>Note that if an enemy gets inside the orbit while you are swinging your shield, you will become defenseless. | [Map Chest](wiki/en/map/chest_locations) |
+| Cyclone Slash	| In the air `←` or `→` + `Z`	| Spin wildly and rush towards the enemy.<br>Applies shotgun effect on hit, if one is held.<br>You will be vulnerable for a brief moment after landing. | [Map Chest] |
+| Comet Dive | In the air `↓` + `Z` | Attack by dropping down at a high speed.<br>You will be almost invincible while falling.<br>Applies shotgun effect on hit, if one is held.<br>The power is the same as a weak attack.	| [Map Chest] |
+| Dash Strike	| after running for a short distance + `Z` | Dash forward and strike enemies at high speed.<br>Held shotgun effects will be applied to the first enemy hit.<br>Power is the same as a normal weak attack.	| [Map Chest] |
+| Air Slash	| in midair + `Z`	| Lunge forward in midair to strike enemies.<br>Held shotgun effects will be applied to the first enemy hit.<br>Power is the same as a normal weak attack. | [Map Chest] |
+| Shield Bash	| While shielding + `Z`	| Release the shield's energy.<br>Can be used to parry an enemy's attack and knock them down.	| [Map Chest] |
+| Orbital Shield | While shielding + <br>`←` or `→` + `Z`	| The shield is separated from the user and swung around.<br>A hit consumes the shield's durability, so it cannot be used many times in a row.<br>Note that if an enemy gets inside the orbit while you are swinging your shield, you will become defenseless. | [Map Chest] |
 
 #### Magic Skill :id=magic
 

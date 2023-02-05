@@ -2,5 +2,29 @@
   - [Control List](wiki/en/table_of_contents/control_list)
   - [Skill](wiki/en/table_of_contents/skill)
   - [Spell](wiki/en/table_of_contents/spell)
+  - [Enhancer](wiki/en/table_of_contents/enhancer)
+  - [Chest_Reels](wiki/en/table_of_contents/chest_reels)
+- Item
+  - [Items](wiki/en/item/items)
+  - [Obtainable Items](wiki/en/item/obtainable_items)
+  - [Recipes](wiki/en/item/recipes)
+  - [Cookings](wiki/en/item/cookings)
+  - [Chest List](wiki/en/item/chest_list)
 - Map
+  - [Area Map](wiki/en/map/area_map) 
+  - [Battle Locations](wiki/en/map/battle_locations) 
+  - [Gathering Locations](wiki/en/map/gathering_locations) 
   - [Chest Locations](wiki/en/map/chest_locations) 
+  - [Enemy List](wiki/en/map/enemy_list) 
+- Story
+  - [Prologue]
+  - [The Sleeping Princess wakes up]
+- Other
+  - [World Outlook](wiki/en/other/world_outlook) 
+  - [Character Design](wiki/en/other/character_design) 
+  - [Side Information](wiki/en/other/side_information) 
+  - [FAQ](wiki/en/other/faq) 
+  - [Update Information](wiki/en/other/update_information) 
+  - [Animation]
+  - [GitHub](https://github.com/AliceInCradle-Community) 
+  - [Technical Stuff](wiki/en/other/technical_stuff) 

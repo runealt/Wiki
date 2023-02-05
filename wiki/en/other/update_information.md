@@ -1,4 +1,4 @@
-## Update Information
+<h2>Update Information</h2>
 
 ### ver0.20s (220528-2)
 

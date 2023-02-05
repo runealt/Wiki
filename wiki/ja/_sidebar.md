@@ -1,6 +1,6 @@
 - 目次
-  - [操作一覧](wiki/ja/table_of_contents/操作一覧)
-  - [スキル](wiki/ja/table_of_contents/スキル)
-  - [魔術](wiki/ja/table_of_contents/魔術)
-  - [エンハンサー](wiki/ja/table_of_contents/エンハンサー)
-  - [宝箱用リール](wiki/ja/table_of_contents/宝箱用リール)
+  - [操作一覧](wiki/ja/目次/操作一覧)
+  - [スキル](wiki/ja/目次/スキル)
+  - [魔術](wiki/ja/目次/魔術)
+  - [エンハンサー](wiki/ja/目次/エンハンサー)
+  - [宝箱用リール](wiki/ja/目次/宝箱用リール)

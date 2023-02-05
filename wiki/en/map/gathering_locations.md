@@ -1,4 +1,4 @@
-## Gathering Locations
+### Gathering Locations
 
 ![gl](../../../assets/images/wiki/map/0.22mapG.png)
 

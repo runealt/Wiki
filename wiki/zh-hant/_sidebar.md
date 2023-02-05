@@ -1,1 +1,30 @@
-  - [TEST-PAGE](wiki/zh-hant/test.md)
+- 目錄
+  - [操作方法](wiki/zh-hant/table_of_contents/control_list)
+  - [魔術](wiki/zh-hant/table_of_contents/spell)
+  - [技能](wiki/zh-hant/table_of_contents/skill)
+  - [強化器](wiki/zh-hant/table_of_contents/zh-hanthancer)
+  - [寶箱用轉盤](wiki/zh-hant/table_of_contents/chest_reels)
+- 物品
+  - [物品](wiki/zh-hant/item/items)
+  - [物品入手方法](wiki/zh-hant/item/obtainable_items)
+  - [配方](wiki/zh-hant/item/recipes)
+  - [料理](wiki/zh-hant/item/cookings)
+  - [寶箱一覽](wiki/zh-hant/item/chest_list)
+- 地圖
+  - [地圖](wiki/zh-hant/map/area_map) 
+  - [戰鬥點](wiki/zh-hant/map/battle_locations) 
+  - [採集點](wiki/zh-hant/map/gathering_locations) 
+  - [地圖寶箱](wiki/zh-hant/map/chest_locations) 
+  - [魔族一覽](wiki/zh-hant/map/zh-hantemy_list) 
+- 故事
+  - [序章]
+  - [覺醒的睡美人]
+- 其他
+  - [BGM樂曲](wiki/zh-hant/other/bgm) 
+  - [世界觀](wiki/zh-hant/other/world_outlook) 
+  - [人物原畫](wiki/zh-hant/other/character_design) 
+  - [小情報](wiki/zh-hant/other/side_information) 
+  - [常有的問題](wiki/zh-hant/other/faq) 
+  - [改版情報](wiki/zh-hant/other/update_information) 
+  - [愛麗搖籃進度如何](wiki/zh-hant/other/progress_rate)
+  - [GitHub](https://github.com/AliceInCradle-Community) 

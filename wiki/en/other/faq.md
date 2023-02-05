@@ -1,4 +1,4 @@
-## FAQ
+<h2>FAQ</h2>
 
 ### Holy Burst
 

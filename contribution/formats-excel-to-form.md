@@ -1,7 +1,7 @@
 ### How to use Excel to make a table and import it to the page?
 
 Use The Recommend Automatic Tools:
-https://github.com/fanfeilong/exceltk
+https://tableconvert.com/excel-to-html
 
 Or
 

@@ -1,55 +1,55 @@
-<h3>Skill</h3>
+<h3>技能</h3>
 
 <!-- images or urls list for this page -->
-[Map Chest]: wiki/en/map/chest_locations
+[地圖寶箱]: wiki/zh-hant/map/chest_locations
 
-#### Attack Skill :id=attack
+#### 攻擊技能 :id=attack
 
-| Skill Name | How to Use	| Description	| How to Get|
+| 技能名 | 操作方法	| 說明 | 習得方法 |
 | --- | --- | --- | --- |
-| Punch	| `Z`	| Bash enemies with your staff at close range.<br>Weak attack power, but can be used to knock mana out of enemies. | Available from Start |
-| Shotgun	| While casting + `Z`	| Hit enemies with a burst of mana at close range, dealing significant damage.<br>The power and effect depends on the magic being chanted. | Available from Start |
-| Sliding	| `↓`+ `Z` | An unreliable downward attack.<br>If you hit an enemy or slide off a ledge, you will be knocked down. | Available from Start |
-| Cyclone Slash	| In the air `←` or `→` + `Z`	| Spin wildly and rush towards the enemy.<br>Applies shotgun effect on hit, if one is held.<br>You will be vulnerable for a brief moment after landing. | [Map Chest] |
-| Comet Dive | In the air `↓` + `Z` | Attack by dropping down at a high speed.<br>You will be almost invincible while falling.<br>Applies shotgun effect on hit, if one is held.<br>The power is the same as a weak attack.	| [Map Chest] |
-| Dash Strike	| after running for a short distance + `Z` | Dash forward and strike enemies at high speed.<br>Held shotgun effects will be applied to the first enemy hit.<br>Power is the same as a normal weak attack.	| [Map Chest] |
-| Air Slash	| in midair + `Z`	| Lunge forward in midair to strike enemies.<br>Held shotgun effects will be applied to the first enemy hit.<br>Power is the same as a normal weak attack. | [Map Chest] |
-| Shield Bash	| While shielding + `Z`	| Release the shield's energy.<br>Can be used to parry an enemy's attack and knock them down.	| [Map Chest] |
-| Orbital Shield | While shielding + <br>`←` or `→` + `Z`	| The shield is separated from the user and swung around.<br>A hit consumes the shield's durability, so it cannot be used many times in a row.<br>Note that if an enemy gets inside the orbit while you are swinging your shield, you will become defenseless. | [Map Chest] |
+| 小攻擊	| `Z`	| 揮動杖的攻擊。<br>威力非常弱小、但是魔力不足時從敵人身上奪取魔力時非常有用。 | 初期習得 |
+| 散彈槍	| 魔術保持中 + `Z`	| 魔力能量近距離爆發、可以對敵人造成巨大傷害。<br>威力和效果依據詠唱中的魔法變化。 | 初期習得 |
+| 滑壘	| `↓`+ `Z` | 不可靠的下段攻擊。<br>碰到敵人或有高低差時會跌倒請注意。 | 初期習得 |
+| 旋風迴轉	| 在空中 `←` or `→` + `Z`	| 保持著迴轉狀態下、向敵人的攻擊。如果魔法詠唱保持中使用的話、會對所有敵人造成等同為小威力散彈槍的效果。<br>使用前、後的延遲很大。 | [地圖寶箱] |
+| 彗星衝擊 | 在空中 `↓` + `Z` | 往正下方的高速攻擊、攻擊間無敵狀態。<br>威力跟小攻擊一樣。<br>如果魔法詠唱保持中使用的話會有等同為大威力散彈槍的效果。	| [地圖寶箱] |
+| 衝刺強襲	| 跑步一會兒後按`Z` | 乘著跑步的氣勢向前方的攻擊威力跟小攻擊一樣。<br>如果魔法詠唱保持中使用的話會有等同為大威力散彈槍的效果。	| [地圖寶箱] |
+| 空中斬	| 在空中時按`Z` | 乘著跑步的氣勢向前方的攻擊威力跟小攻擊一樣。<br>如果魔法詠唱保持中使用的話會有等同為大威力散彈槍的效果。 | [地圖寶箱] |
+| 護盾衝擊 | 護盾中 + `Z`	| 將護盾的能量擴散。<br>在敵人將要攻擊命中前按下的話可以將敵人擊飛。	| [地圖寶箱] |
+| 軌道護盾 | 護盾中 + <br>`←` or `→` + `Z`	| 將護盾從術者分開後旋轉。<br>每次打擊後護盾強度會減弱，沒辦法連續使用。<br>旋轉中敵人如果侵入裡面會變成無防備的狀態請注意。 | [地圖寶箱] |
 
-#### Magic Skill :id=magic
+#### 魔術技能 :id=magic
 
-| Skill Name | How to Use	| Description	| How to Get|
+| 技能名 | 操作方法	| 說明 | 習得方法 |
 | --- | --- | --- | --- |
-| Burst	| Press `Z` + `X` at the same time | Detonates mana and knocks back surrounding enemies.<br>Can be used at any time as long as the caster has consciousness. | 2nd Day Event |
+| 聖光爆發	| `Z` + `X` 長按 | 將魔力一口氣爆發出來、擊飛周圍的敵人<br>這個技能在術者有意識的情況下隨時都可以使用	 | 第二天劇情 |
 
-#### Defensive Skill :id=defensive
+#### 防御技能 :id=defensive
 
-| Skill Name | How to Use	| Description	| How to Get|
+| 技能名 | 操作方法	| 說明 | 習得方法 |
 | --- | --- | --- | --- |
-| Shield | `Shift` | Protect yourself from enemy attacks and toxic fumes.<br>The shield will break if it takes too many attacks. | 1st Day Event |
-| Dodge	| `Shift` + `←` or `→` | Briefly become invincible and avoid enemy attacks.<br>Distanced traveled can be increased by holding `←` or `→` longer.<br>Can also be used in mid-air to extend hang time. | 1st Day Event |
-| Feline Reflexes	| The moment Noel hits the ground press `Shift` + `←` or `→`	When knocked back by an enemy, perform a dodge when you land to immediately get back on your feet.<br>If used while you have a condition that prevents dodging (e.g. Exhausted), you will fall over afterwards.	| 1st Day Event |
-| Shield Bash	| While shielding + `Z`	| Release the shield's energy.<br>Can be used to parry an enemy's attack and knock them down.	| [Map Chest] |
-| Orbital Shield | While shielding + `←` or `→` + `Z` | The shield is separated from the user and swung around.<br>A hit consumes the shield's durability, so it cannot be used many times in a row.<br>Note that if an enemy gets inside the orbit while you are swinging your shield,<br>you will become defenseless. | [Map Chest] |
+| 護盾 | `Shift` | 從敵人攻擊和有毒大氣中保護自己<br>如持續遭受敵人攻擊可能會破碎。 | 第一天事件 |
+| 回避	| `Shift` + `←` or `→` | 一瞬間無敵、迴避敵人的攻擊。<br>依據按下`←`or`→`時間長短可以調整移動距離。<br>空中也可以使用<br>在需要稍微增加空中的移動距離非常有用。 | 第一天事件 |
+| 受身	| 著地時瞬間 `Shift` + `←` or `→` | 被敵人擊飛時、著地的瞬間使用迴避的話、將會變成受身、乾枯狀態等...<br>不能使用迴避狀態的情況使用的話迴避之後會跌倒。	| 第一天事件 |
+| 護盾衝擊	|護盾中 + `Z`	| 將護盾的能量擴散。<br>在敵人將要攻擊命中前按下的話可以將敵人擊飛。	| [地圖寶箱] |
+| 軌道護盾 | 護盾中 + `←` or `→` + `Z` | 將護盾從術者分開後旋轉。<br>每次打擊後護盾強度會減弱, 沒辦法連續使用。<br>旋轉中敵人如果侵入裡面, 會變成無防備的狀態請注意。 | [地圖寶箱] |
 
-#### HP SKill :id=hp
+#### 體力技能 :id=hp
 
-| Skill Name | Description | How to Get|
+| 技能名 | 說明 | 習得方法 |
 | --- | --- | --- |
-| Statue Talisman	| Greatly increases HP and MP, but decreases the probability of obtaining treasure chests.<br>To use it, Open the `Menu` and open `Skill Tab`, then check the `Use` checkbox.<br><font color=#e55543>Double the effect of recovery items</font>	| [Map Chest] |
-| HP+10	| Maximum HP increased by 10.	| [Map Chest] |
-| HP+20	| Maximum HP increased by 20.	| [Map Chest] |
+| 埴輪土偶護身符	| 大幅增加HP,MP、但是寶箱的取得機率下降。<br>要使用需要按下`目錄鍵`打開目錄<br>「技能」選單內「使用」勾選。<br><font color=#e55543>回復物品的回復量變成兩倍</font>	| [地圖寶箱] |
+| HP+10	| 最大HP増加10。	| [地圖寶箱] |
+| HP+20	| 最大HP増加20。	| [地圖寶箱] |
 
-#### MP Skill :id=mp
+#### 魔力技能 :id=mp
 
-| Skill Name | Description | How to Get|
+| 技能名 | 說明 | 習得方法 |
 | --- | --- | --- |
-| Statue Talisman	| Greatly increases HP and MP, but decreases the probability of obtaining treasure chests.<br>To use it, Open the `Menu` and open `Skill Tab`, then check the `Use` checkbox.<br><font color=#e55543>Double the effect of recovery items</font>	| [Map Chest] |
-| MP+20	| Maximum MP increased by 20.	| [Map Chest] |
+| 埴輪土偶護身符	| 大幅增加HP,MP、但是寶箱的取得機率下降。<br>要使用需要按下`目錄鍵`打開目錄<br>「技能」選單內「使用」勾選。<br><font color=#e55543>回復物品的回復量變成兩倍</font>	| [地圖寶箱] |
+| MP+20	| 最大MP増加20。	| [地圖寶箱] |
 
-#### Skill not implemented :id=ni
+#### 未實裝的技能 :id=ni
 
-| Skill Name | Description |
+| 技能名 | 說明 |
 | --- | --- |
-| Dancing Slash | Delivers an attack right after you evade the enemy's attack.<br>Time and hit `Z` well and you can deal up to three additional hits.<br>Shotgun effects will only be applied on the first hit.<br>Can also be used after repelling an enemy's attack with Shield Bash. |
+| 舞踏斬擊 | 迴避敵人的攻擊後、向前踏出的攻擊。<br>在恰當的時機按下`Z`可以追加三次攻擊<br>散彈槍有效的攻擊只有第一發。<br>護盾衝擊將敵人擊飛後也可以使用。 |

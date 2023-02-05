@@ -1,9 +1,10 @@
 ### About Wiki
 
-Wiki of AliceInCradle<br>
-Alice In CradleのWikiです<br>
-Alice In Cradle的Wiki<br>
-Alice In Cradle의Wiki입니다.
+Here is the Wiki of ACT game <b>AliceInCradle</b><br>
+ここはACTゲーム<b>「Alice In Cradle」</b>のWikiである。<br>
+这里是ACT游戏<b>《Alice In Cradle》</b>的Wiki。<br>
+這裏是ACT遊戲<b>『Alice In Cradle』</b>的Wiki。<br>
+<b>'Alice In Cradle'</b>의Wiki입니다.
 
 
 All pages are written via Markdown and a small amount of HTML.<br>
@@ -28,8 +29,8 @@ For how to modify this wiki, please [click here](contribution/contribute.md) for
 
 - [[English]](wiki/en/)
 - [[日本語]](wiki/ja/)
-- [[한국어]](wiki/ko/)
 - [[简体中文]](wiki/zh-hans/)
 - [[繁體中文]](wiki/zh-hant/)
+- [[한국어]](wiki/ko/)
 
 Wiki Theme Original Designer: [NyaaCat](https://github.com/nyaacat)

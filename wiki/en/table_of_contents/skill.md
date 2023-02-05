@@ -1,4 +1,4 @@
-### Skill
+<h3>Skill</h3>
 
 <!-- images or urls list for this page -->
 [Map Chest]: wiki/en/map/chest_locations

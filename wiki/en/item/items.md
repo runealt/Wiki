@@ -18,12 +18,12 @@
 <!-- I only added rowspan="2"  to "Max Stacking Count" and removed one <td></td> -->
 
 <table>
-<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">Item Name</td>
-		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">Category</td>
-		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">Ingredient Effect &amp; Item Function</td>
-		<td style="background-color:#CFC;text-align:center;" colspan="5">Food Effect</td>
-		<td style="background-color:#CFC;text-align:center;" colspan="5">Item Effect</td>
-		<td style="background-color:#CFC;text-align:center;" rowspan="2">Max Stacking Count</td></tr>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td rowspan="2" style="vertical-align:MIDDLE;">Item Name</td>
+		<td rowspan="2" style="vertical-align:MIDDLE;">Category</td>
+		<td rowspan="2" style="vertical-align:MIDDLE;">Ingredient Effect &amp; Item Function</td>
+		<td style="text-align:center;" colspan="5">Food Effect</td>
+		<td style="text-align:center;" colspan="5">Item Effect</td>
+		<td style="text-align:center;" rowspan="2">Max Stacking Count</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">
 		<td style="">1★</td>
 		<td style="">2★</td>

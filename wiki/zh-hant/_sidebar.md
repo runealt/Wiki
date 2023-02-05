@@ -2,7 +2,7 @@
   - [操作方法](wiki/zh-hant/table_of_contents/control_list)
   - [魔術](wiki/zh-hant/table_of_contents/spell)
   - [技能](wiki/zh-hant/table_of_contents/skill)
-  - [強化器](wiki/zh-hant/table_of_contents/zh-hanthancer)
+  - [強化器](wiki/zh-hant/table_of_contents/enhancer)
   - [寶箱用轉盤](wiki/zh-hant/table_of_contents/chest_reels)
 - 物品
   - [物品](wiki/zh-hant/item/items)

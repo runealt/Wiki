@@ -2,10 +2,10 @@
 
 | Key	| Menu Operations	| Gameplay Operations |
 | --- | --- | --- |
-| `↑`	| Move | Cursor	| Jump |
-| `←`	| Move | Cursor	| Jump |
-| `→`	| Move | Cursor	| Jump |
-| `↓`	| Move | Cursor	| Crouch |
+| `↑`	| Move Cursor	| Jump |
+| `←`	| Move Cursor	| Jump |
+| `→`	| Move Cursor	| Jump |
+| `↓`	| Move Cursor	| Crouch |
 | `Space`	| Confirm/Talk/Search	| Run |
 | `Z`	| Confirm/Talk/Search	| Attack |
 | `X`	| Cancel／Skip	| Magic |

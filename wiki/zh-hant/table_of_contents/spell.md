@@ -1,14 +1,14 @@
-### Spell
+### 魔術
 
-| Spell Name | Description | How to Get |
+| 魔術名 | 說明 | 入手方法 |
 | --- | --- | --- |
-| White Arrow	| Shoots an arrow of light from above the caster's head.<br>Easy to master and has a short casting time, but isn't very powerful.<br>Mostly used by support mages to help keep enemies at a distance.	| Available from start |
-| Energy Ball	| A massive fireball of devastating power.<br>Deals splash damage that can hit through walls.<br>and it can reach enemies behind walls.<br>Its direction can be changed 3 times, but the caster will be defenseless while controlling it.<br>Shield or dodge to break control in a pinch.<br>Will knock down the caster if it explodes too close to them.	| 2nd Day Event - After saving Ixia from Snake |
-| Holy Burst | Hold `Z` + `X` while chanting.<br>Releases a burst of energy to knock back enemies.<br>Mana used for this spell cannot be recollected which risks enemies absorbing it.<br>Can still be cast even when out of mana, but will take a serious toll on the caster's mind.	| 2nd Day Event - Before fighting the Forest Boss. This skill is necessary to defeat the boss. |
-| Ground Bomb	| Compresses energy into a small bomb.<br>Low range and power, but frightens and scatters enemies.<br>Useful for buying time to cast other spells or to break up groups.<br>It can also destroy certain types of walls, making it useful for exploring.	| 1st Day Event |
+| 純白之箭	| 從空中發射的光之箭。<br>威力較小但是詠唱時間短。<br>消耗的魔力會在術者的正上方散落，<br>因此比較容易回收魔力容易使用。<br>在作為支援職在受到襲擊時普及的迎擊手段。	| 初期擁有 |
+| 能量球	| 向遠方發射巨大的火球。<br>可以控制發射後的火球方向三次，<br>也可以擊中牆壁後面的敵人，<br>控制方向時術者為無防備狀態，<br>依據狀況可以用迴避和護盾來中斷控制。<br>直接命中的威力很大，但是魔力也容易散開來<br>觸碰或擊中牆壁時容易誤爆這點要特別注意。	| 第二天事件 |
+| 聖光爆發 | 同時長按`Z`+`X`來發動<br>將魔力爆發來攻擊、並擊飛周圍的敵人<br>這個魔法在術者有意識的情況下隨時都可以使用<br>但是、會發散出許多施術者者無法回收的魔力<br>請注意有可能會對手白白送上魔力<br>而且在沒有魔力的情況使用爆發的話<br>會對施術者造成極大的精神傷害	| 第二天事件 |
+| 球型炸彈	| 將能量壓縮成爆彈放置於地面上。<br>雖然攻擊範圍和威力很弱，但是有讓敵人畏縮的效果，<br>可以分斷大群敵人、以及爭取魔術的詠唱時間<br>各式各樣的運用方式，如同名子一樣。<br>有許多堅固的地形只能使用此魔術破壞，<br>所以在探索方面有很大的活躍度。	| 第一天事件 |
 
-### Spell not implemented
+### 未實裝的魔術
 
-| Spell Name | Description |
+| 魔術名 | 說明 |
 | --- | --- |
-| Thunderbolt | Shoots a straight beam of electricity from thin air to attack enemies.<br>The electric orb must be suspended in the air first to charge its energy.<br>If it collides with a wall or enemies before it finishes charging, the energy will be scattered and the orb will lose considerable power.<br>You can also get hurt by this magic. Be careful while using it. |
+| 閃電衝擊 | 從空中電力能量向敵人一直線的攻擊。<br>電力之球在空中停留時需要能量的充能、<br>在充能結束之前如果碰到敵人或牆壁的話<br>能量放出的攻擊力將會下降。<br><font color=red>這個魔術也會攻擊到自身的關係還請盡量小心使用。</font> |

@@ -1,4 +1,4 @@
-## Area Map
+<h2>Area Map</h2>
 
 ### Forest of The Storytellers :id=fots
 

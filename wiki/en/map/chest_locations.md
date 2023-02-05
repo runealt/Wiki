@@ -1,4 +1,4 @@
-## Chest Locations
+<h2>Chest Locations</h2>
 
 <!-- images or urls list for this page -->
 [Enhancer]: wiki/en/table_of_contents/enhancer

@@ -1,22 +1,22 @@
-<h3>Control List</h3>
+<h3>操作方法</h3>
 
-| Key	| Menu Operations	| Gameplay Operations |
-| --- | --- | --- |
-| `↑`	| Move Cursor	| Jump |
-| `←`	| Move Cursor	| Jump |
-| `→`	| Move Cursor	| Jump |
-| `↓`	| Move Cursor	| Crouch |
-| `Space`	| Confirm/Talk/Search	| Run |
-| `Z`	| Confirm/Talk/Search	| Attack |
-| `X`	| Cancel／Skip	| Magic |
-| `C`	| -	| Target |
-| `A`	| -	| Map |
-| `S`	| -	| Other |
-| `D`	| -	| Item |
-| `Q`	| -	| Go to Left Tab |
-| `E`	| -	| Go to Right Tab |
-| `LShift`	| -	| Evade/Shield |
-| `Esc`	| Cancel	| Menu |
-| `Z`+`X`	| - | chant cancel |
-| `↓`+`←`or`→`	| - | Crouch move |
-| `C` long press	| - | Hispeed stop reel |
+| 操作 | 選單中 | 移動畫面  |
+|---|---|---|
+| `↑` | 游標移動 | 跳躍、爬上梯子  |
+| `←` | 移動游標 | 移動  |
+| `→` | 移動游標 | 移動  |
+| `↓` | 移動游標 | 蹲下、爬下梯子  |
+| `Space` | 確定/說話／調查 | 跑步  |
+| `Z` | 確定/說話／調查 | 攻擊  |
+| `X` | 取消／跳過 | 魔術  |
+| `C` | - | 更換目標  |
+| `A` | - | 地圖  |
+| `S` | - | 其他  |
+| `D` | - | 使用物品快捷鍵  |
+| `Q` | - | 移動到左邊標籤  |
+| `E` | - | 移動到右邊標籤  |
+| `LShift` | - | 迴避/護盾  |
+| `Esc` | 取消 | 選單  |
+| `Z`+`X` |  | 詠唱  |
+| `↓`+`←`or`→` |  | 詠唱取消  |
+| `C` long press |  | 蹲下移動  |

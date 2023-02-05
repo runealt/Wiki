@@ -1,4 +1,4 @@
-## Recipes
+<h2>Recipes</h2>
 
 ### Crafting Recipe :id=crafting
 

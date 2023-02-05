@@ -1,4 +1,4 @@
-## Obtainable Items
+<h2>Obtainable Items</h2>
 
 <!-- images or urls list for this page -->
 [Chest Map]:  wiki/en/map/chest_locations

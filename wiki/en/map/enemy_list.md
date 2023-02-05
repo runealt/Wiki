@@ -1,4 +1,4 @@
-## Enemy List
+<h2>Enemy List</h2>
 
 ### Small Monsters
 

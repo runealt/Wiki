@@ -1,4 +1,4 @@
-### Control List
+<h3>Control List</h3>
 
 | Key	| Menu Operations	| Gameplay Operations |
 | --- | --- | --- |

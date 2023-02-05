@@ -1,4 +1,4 @@
-<h2> Chest List </h2>
+## Chest List
 
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td style="background-color:#CFC;text-align:center;"> Chest Name </td>

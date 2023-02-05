@@ -9,7 +9,7 @@
 
 ### Relates Websites
 
-演出とシナリオとピクセルアートと総合担当 <font color=#56bcf9>ひなゆあ</font>
+Performance, script, pixel art and chief director <font color=#56bcf9>ひなゆあ</font>
 
 Offical Sites:
 

@@ -1,4 +1,4 @@
-### Battle Locations
+<h2>Battle Locations</h2>
 
 ![bl](../../../assets/images/wiki/map/0.22mapB.png)
 

@@ -1,4 +1,4 @@
-## World Outlook
+<h2>World Outlook</h2>
 
 ![mana_crystal_1](../../../assets/images/wiki/other/world_outlook/mana_crystal_1.png)
 

@@ -1,4 +1,4 @@
-### Traditional Chinese(zh-hant)
+### 繁體中文(zh-hant)
 
 愛麗絲搖籃是以「可憐即是可愛」為原則由<font color=#56bcf9>hinayua</font>、和<font color=#f6c5cb>橋野mizuha</font>開發的軟性ryona和異種姦為主要的成人向2D動作探索遊戲。
 

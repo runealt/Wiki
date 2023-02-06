@@ -1,103 +1,99 @@
-<h2>Obtainable Items</h2>
+<h2>物品入手方法</h2>
 
 <!-- images or urls list for this page -->
-[Chest Map]:  wiki/en/map/chest_locations
-[Alchemy]: wiki/en/item/recipes
-[Mining Point]: wiki/en/map/gathering_locations
+[地圖寶箱]:  wiki/zh-hant/map/chest_locations
+[Alchemy]: wiki/zh-hant/item/recipes
+[Mining Point]: wiki/zh-hant/map/gathering_locations
 
-### Valuables :id=v
+### 貴重品 :id=v
 
-| Item Name | How to Get | Notes |
+| 物品名 | 入手方法 | 備註 |
 |---|---|---|
-| Old Healer's Uniform | Available from Start |   |
-| MP Gauge | Available from Start |   |
-| Cotton Panties | Available from Start |   |
-| Enhancer Slot | Buy from Merchant(Nightingale)<br>Buy from Laevi<br>The Witch's Shop：Right side of the waterfall room under the well<br>Forest of The Storytellers：Go down from "Supply Soldier" enemy point to the room with worm wall on the right side.（Details:[Chest Map]）| Can be bought once |
-| Overcharger Slot  | Buy from Merchant(Nightingale)、[Chest Map] | Can be bought once |
-| Map of Forest of the Storytellers | Buy from Merchant(Nightingale) | 200G |
+| 舊式治療師制服 | Available from Start |   |
+| 魔力磁計 | 最初所持 |   |
+| 棉布內褲 | 最初所持 |   |
+| 強化器插槽 | 跟商人購買<br>跟姐姐大人購買<br>魔女的雑貨店：水井下瀑布有個房間的右邊<br>編織者之森：在卑賤的補給兵往下面、之後右邊前進有蟲的房間（詳細參考[地圖寶箱]）| 購買限定一次 |
+| 充電器插槽  | 跟商人購買、[地圖寶箱] | 購買限定一次 |
+| 編織者之森的地圖 | 商人購買 | 200G |
 
-### Items :id=i
+### 物品 :id=i
 
-| Item Name | Category | How to Get | Notes  |
+| 物品名 | 分類 | 入手方法 | 備註 |
 |---|---|---|---|
-| Blood Cherry | Fruit | Gather from Tree、Buy from Laevi、Fruit1~2 |   |
-| Blood Apple | Fruit | Gather from Tree、Buy from Laevi、Fruit1~2 |   |
-| Blood Pine | Fruit | Gather from Tree、Buy from Laevi、Fruit1~2 |   |
-| Magical Gummy | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、[Alchemy] |   |
-| Vital Gummy | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、[Alchemy] |   |
-| Life Bottle | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi、[Alchemy] |   |
-| Ankh of Gracia | Recovery | Buy from Merchant(Nightingale)、Buy from Laevi |   |
-| Purple Malus | ??? | Buy from Laevi |   |
-| Fresh Water | Water | Gather from Tree、Buy from Merchant(Nightingale)、Buy from Laevi |   |
-| Dark Essence | Water | Monster Material 3、Monster Material 4 |   |
-| Noel Juice | Water | If there is an empty bottle, the liquid can be obtained automatically when Noel squirts or leaks liquid. It is said to have magical power restoration abilities, but... |   |
-| Gell | Meat | Monster Material1~3、Buy from Laevi |   |
-| Monster's Meat | Meat | Monster Material 2、Meat Count 1、Buy from Laevi |   |
-| Livestock Meat | Meat | Buy from Merchant(Nightingale)、"[Mining Point]O" |   |
-| Livestock Egg | Egg | Buy from Merchant(Nightingale) |   |
-| Noel's Egg | Egg | Eggs laid by Noel after getting incubated by monsters |   |
-| Mushroom | Mushroom | Gather from Tree、Mushroom1、Buy from Merchant(Nightingale) |   |
-| Wheat | Grain | Grain1、Buy from Merchant(Nightingale) |   |
-| Corn | Vegetable、Grain | dessert1、Buy from Merchant(Nightingale) |  |
-| Lettuce | Vegetable | Gather from Tree、Buy from Merchant(Nightingale) |   |
-| Carrot | Vegetable | Gather from Tree、Red-Yellow Vegetable1、Buy from Merchant(Nightingale) |   |
-| Broccoli | Vegetable | Various Vegetable1、Buy from Merchant(Nightingale) |   |
-| Cabbage | Vegetable | Gather from Tree、Buy from Merchant(Nightingale) |   |
-| Tomato | Vegetable | Red-Yellow Vegetable1、Buy from Merchant(Nightingale) |   |
-| Bell Pepper | Vegetable | Gather from Tree、Buy from Merchant(Nightingale) |   |
-| Paprika | Vegetable | Gather from Tree、Buy from Merchant(Nightingale) |   |
-| Celery | Vegetable | Buy from Merchant(Nightingale) |   |
-| Burdock | Vegetable | Red-Yellow Vegetable1、Various Vegetable1、Buy from Merchant(Nightingale) |   |
-| Eggplant | Vegetable | Various Vegetable1、Buy from Merchant(Nightingale) |   |
-| Cucumber | Vegetable | Buy from Merchant(Nightingale) |   |
-| Turnip | Vegetable | Red-Yellow Vegetable1、Various Vegetable1、Buy from Merchant(Nightingale) |   |
-| Onion | Vegetable | Gather from Tree、Various Vegetable1、Buy from Merchant(Nightingale) |   |
-| Beets | Vegetable、Seasoning | Gather from Tree、Dessert 1、Buy from Merchant(Nightingale) |   |
-| Pepper | Seasoning | Buy from Merchant(Nightingale) | Rare  |
-| Carrot | Seasoning | Gather from Tree、Red-Yellow Vegetable1、Buy from Merchant(Nightingale) |   |
-| Rock Salt | Seasoning | Gather from Tree、Buy from Laevi、Buy from Merchant(Nightingale) |   |
-| Monster's Kimo | Other | Buy from Laevi |   |
-| Poisonous Seed | Other | Buy from Laevi |   |
-| Amethyst | Other | Buy from Laevi、Buy from Merchant(Nightingale) |  |
-| Monster's Skin | Other | Buy from Laevi |   |
-| Glass Shard | Other | Monster Material1~3、Buy from Laevi |   |
-| Empty Bottle | Other | Buy from Laevi、Buy from Merchant(Nightingale)、[Alchemy] |   |
-| Coal | Other | Gather from Tree、Ore 1、Buy from Laevi、Buy from Merchant(Nightingale) |   |
-| Quartz | Other | Gather from Tree、Ore 1、Buy from Laevi、Buy from Merchant(Nightingale) |   |
-| Lunch Box | Other | Buy from Laevi | Can be bought once  |
-| Merchant's Bell | Other | Buy from Merchant(Nightingale) | Can be bought once  |
-| Black-striped Herb | Vegetable | Herb1 |   |
-| Dry Grass | Other | Green Vegetable 1、Various Vegetable 1 | 0.21added  |
-| Bottle of Spices | Seasoning | Event | 0.22added  |
-| Rosemary | Herb | Herb1 | 0.22added  |
-| Basil | Herb | Herb2 | 0.22added  |
-| Lemongrass | Herb | Herb1、Herb2 | 0.22added  |
-| Sage | Herb | Herb2 | 0.22added  |
-| Rose Geranium | Herb | Herb2 | 0.22added  |
-| Peppermint | Herb | Herb1 | 0.22added  |
-| Catnip | Herb | Herb2 | 0.22added  |
-| Chamomile | Herb | Herb1 | 0.22added  |
-| Spotted Mushroom | Mushroom | Mushroom+ | 0.22added  |
-| Sulfur | Other | Ore2 | 0.22added  |
-| Gold ore | Other | Ore2、Ore3、Ore+ | 0.22added  |
-| Red Beryl | Other | Ore+ | 0.22added  |
-| Sapphire | Other | Ore2+Ore+ | 0.22added  |
-| Topaz | Other | Ore3、Ore+ | 0.22added  |
-| Morganite | Other | Ore+ | 0.22added  |
-| Nekoite | Other | ？？ | 0.22added  |
-| Wood | Other | Crafting1、Crafting+ | 0.22added  |
-| Stone | Other | Crafting1、Crafting+ | 0.22added  |
-| Fake Slime Egg | Other | Demonic rare drop | 0.22added  |
-| Black Cotton Spores | Other | Demonic rare drop | 0.22added  |
-| Golem’s Right Hand | Other | Demonic rare drop | 0.22added  |
-| Urchin Spine | Other | Demonic rare drop | 0.22added  |
-| Snake Skin | Other | Demonic rare drop | 0.22added  |
-| Lizard Tail | Other | Demonic rare drop | 0.22added  |
-| Round Sponge Shell | Other | Demonic rare drop | 0.22added |
-| Peppermint | Herb | Herb1 | 0.22added  |
-| Catnip | Herb | Herb2 | 0.22added  |
-| Chamomile | Herb | Herb1 | 0.22added  |
-| Spotted Mushroom | Mushroom | Mushroom+ | 0.22added  |
-| Sulfur | Other | Ore2 | 0.22added  |
-
-
+| 血櫻桃 | 果實 | 採集、跟姐姐大人購買、水果1~2 |  |
+| 血蘋果 | 果實 | 採集、跟姐姐大人購買、水果1~2 |  |
+| 血鳳梨 | 果實 | 採集、跟姐姐大人購買、水果1~2 |  |
+| 魔力軟糖 | 回復 | 跟商人購買、跟姐姐大人購買、[錬金術] |  |
+| 活力軟糖 | 回復 | 跟商人購買、跟姐姐大人購買、[錬金術] |  |
+| 生命瓶 | 回復 | 跟商人購買、跟姐姐大人購買、[錬金術] |  |
+| 恩惠的生命之符 | 回復 | 跟商人購買、跟姐姐大人購買 |  |
+| 禁忌的蘋果 | ??? | 跟姐姐大人購買 |  |
+| 新鲜的水 | 水 | 採集、跟商人購買、跟姐姐大人購買 |  |
+| 黑暗精髓 | 水 | 魔族素材3、魔族素材4 |  |
+| 諾艾爾果汁 | 水 | 在帶著空瓶時，諾艾爾的魔力或液體漏出來時。會自動入手 |  |
+| 凝膠 | 肉 | 魔族素材1~3、跟姐姐大人購買 |  |
+| 魔族の肉 | 肉 | 魔族素材2、肉類1、跟姐姐大人購買、肉類+ |  |
+| 家畜の肉 | 肉 | 跟商人購買、"[採集點]O"、肉類+ |  |
+| 家畜の卵 | 卵 | 跟商人購買、肉類+ |  |
+| 諾艾爾的蛋 | 卵 | 諾艾爾抱卵後、孵化出來的魔物的蛋"諾艾爾產" |  |
+| 野蘑菇 | 蘑菇 | 採集、蘑菇1、跟商人購買 |  |
+| 小麥 | 穀物 | 穀物1、跟商人購買 |  |
+| 玉米 | 蔬菜、穀物 | 甘味1、跟商人購買 |  |
+| 萵苣 | 蔬菜 | 採集、綠蔬菜1、跟商人購買 |  |
+| 紅蘿蔔 | 蔬菜 | 採集、赤黃蔬菜1、跟商人購買 |  |
+| 青花菜 | 蔬菜 | 各式各樣蔬菜1、跟商人購買 |  |
+| 高麗菜 | 蔬菜 | 採集、綠蔬菜1、跟商人購買 |  |
+| 番茄 | 蔬菜 | 赤黃蔬菜1、跟商人購買 |  |
+| 青椒 | 蔬菜 | 採集、綠蔬菜1、跟商人購買 |  |
+| 甜椒 | 蔬菜 | 採集、綠蔬菜1、跟商人購買 |  |
+| 芹菜 | 蔬菜 | 綠蔬菜1、跟商人購買 |  |
+| 牛蒡 | 蔬菜 | 赤黃蔬菜1、各式各樣蔬菜1、跟商人購買 |  |
+| 茄子 | 蔬菜 | 各式各樣蔬菜1、跟商人購買、採集 |  |
+| 黃瓜 | 蔬菜 | 綠蔬菜1、跟商人購買 |  |
+| 大頭菜 | 蔬菜 | 赤黃蔬菜1、各式各樣蔬菜1、跟商人購買、採集 |  |
+| 洋蔥 | 蔬菜 | 採集、肉類1、各式各樣蔬菜1、跟商人購買 |  |
+| 甜菜 | 蔬菜、調味料 | 採集、甘味1、赤黃蔬菜1、跟商人購買 |  |
+| 胡椒 | 調味料 | 跟商人購買 | 稀有 |
+| 蒜頭 | 調味料 | 採集、肉類1、赤黃蔬菜1、跟商人購買 |  |
+| 岩鹽 | 調味料 | 採集、甘味1、寶石1跟姐姐大人購買、跟商人購買 |  |
+| 魔族的肝 | 其他 | 跟姐姐大人購買、魔族素材2、魔族素材3、魔族素材4、肉類+ |  |
+| 毒的種子 | 其他 | 跟姐姐大人購買 |  |
+| 紫水晶 | 其他 | 跟姐姐大人購買、跟商人購買 |  |
+| 魔族的皮膚 | 其他 | 跟姐姐大人購買 |  |
+| 玻璃碎片 | 其他 | 魔族素材1~3、跟姐姐大人購買 |  |
+| 空瓶子 | 其他 | 跟姐姐大人購買、跟商人購買、[錬金術] |  |
+| 鐵 | 礦物 | 礦石1 |  |
+| 鉻 | 礦物 | 礦石1、礦石 |  |
+| 石炭 | 其他 | 採集、礦石、跟姐姐大人購買、跟商人購買、資材1、資材+ |  |
+| 水晶 | 其他 | 採集、礦石、跟姐姐大人購買、跟商人購買 |  |
+| 便當盒 | 其他 | 跟姐姐大人購買 | 購買限定一次 |
+| 商人的鈴 | 其他 | 跟商人購買 | 購買限定一次 |
+| 黒縞のハーブ | その他 | 藥草1 |  |
+| 枯草 | 蔬菜 | 綠蔬菜1、各式各樣蔬菜1 | <font color=red>0.21新增</font> |
+| 辛香料小瓶 | 調味料 | 劇情獲得 | <font color=red>0.22追加</font> |
+| 迷迭香 | 藥草 | 藥草1 | <font color=red>0.22追加</font> |
+| 羅勒 | 藥草 | 藥草2 | <font color=red>0.22追加</font> |
+| 檸檬草 | 藥草 | 藥草1、藥草2 | <font color=red>0.22追加</font> |
+| 鼠尾草 | 藥草 | 藥草2 | <font color=red>0.22追加</font> |
+| 香葉天竺葵 | 藥草 | 藥草2 | <font color=red>0.22追加</font> |
+| 辣薄荷 | 藥草 | 藥草1 | <font color=red>0.22追加</font> |
+| 木天蓼 | 藥草 | 藥草2 | <font color=red>0.22追加</font> |
+| 洋甘菊 | 藥草 | 藥草1 | <font color=red>0.22追加</font> |
+| 斑點蘑菇 | 蘑菇 | 蘑菇+ | <font color=red>0.22追加</font> |
+| 硫磺 | 其他 | 礦石2 | <font color=red>0.22追加</font> |
+| 硝石 | 其他 | ？？ | <font color=red>0.22追加</font> |
+| 金礦石 | 其他 | 礦石2、礦石3、礦石+ | <font color=red>0.22追加</font> |
+| 紅色綠柱石 | 其他 | 礦石+ | <font color=red>0.22追加</font> |
+| 藍寶石 | 其他 | 礦石2、、礦石+ | <font color=red>0.22追加</font> |
+| 黃玉 | 其他 | 礦石3、礦石+ | <font color=red>0.22追加</font> |
+| 摩根石 | 其他 | 礦石+ | <font color=red>0.22追加</font> |
+| 貓石 | 其他 | ？？ | <font color=red>0.22追加</font> |
+| 木材 | 其他 | 資材1、資材+ | <font color=red>0.22追加</font> |
+| 石頭 | 其他 | 資材1、資材+ | <font color=red>0.22追加</font> |
+| 史萊姆的假蛋 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |
+| 黑色棉花胞子 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |
+| 木偶的右手 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |
+| 劍山荊棘 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |
+| 蛇皮 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |
+| 跳動的蜥蜴尾巴 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |
+| 海綿的圓殼 | 其他 | 魔族稀有掉落 | <font color=red>0.22追加</font> |

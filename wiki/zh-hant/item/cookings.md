@@ -1,6 +1,7 @@
-<h2>Cookings</h2>
+<h2>料理</h2>
 
-Noel：If I cook various food with different effects then eat all of them, can I become powerful……?
+諾艾爾：作一堆各式各樣不同效果的料理、然後通通吃下去的話、我就會變成最強的嗎……?
+
 
 ### 沙拉
 

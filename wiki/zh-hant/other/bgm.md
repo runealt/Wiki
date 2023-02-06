@@ -1,4 +1,4 @@
-<h3>BGM樂曲</h3>
+<h2>BGM樂曲</h2>
 
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td style="background-color:#CFC;text-align:center;">出現地方</td>

@@ -1,5 +1,5 @@
-<h2>Area Map</h2>
+<h2>地圖</h2>
 
-### Forest of The Storytellers :id=fots
+### 编制者之森 :id=fots
 
 ![fots](../../../assets/images/wiki/map/0.22map.png)

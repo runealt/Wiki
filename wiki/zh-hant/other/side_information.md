@@ -1,39 +1,52 @@
-### Side Information
+### 小情報
 
-This is where secret information are revealed by us.
+這裡是從作者那裡、關於愛麗絲搖籃的秘密情報公開的地方
 
-### Fresh Water
+### 諾艾爾蛋的品質
 
-Every time Noel drinks water, the hidden parameter, Urinate, increases. This increases Noel's chance of discharging urine.
+(A)+(B)+(C)
 
-### Noel's Icon in the Map
+A: (諾艾爾被產卵的蛋數) / (諾艾爾的最大MP) / 0.16<br>
+B: 果汁的品質 (↓請參考下面的文章)<br>
+C: 0〜(0〜2)D的隨機值<br>
+D: 0〜2的固定値<br>
+依據諾艾爾的部位開發度以及高潮的機率取決的數值<br>
+算入計算的部位有子官內／G點／肛門／這3種類。對於諾艾爾還是純潔的情況下數值固定為0
 
-The icon differs when Noel is defeated.
+### 諾艾爾果汁的品質
 
-### Noel Juice
+A+B+C ( 最小 0 〜 最大 4 )
 
-1. The Danger Level can be increased by dropping Noel Juice. The incremental value increases by the grade.
-2. Noel Juice can be obtained by Masturbating at the bench or electrocuting Noel at the lightning beam.
+A: 從自慰來達到高潮時為數值為1, 除此之外為0<br>
+B: 危險度/16x1.35 (小數點捨去)<br>
+但是不包含從丟棄諾艾爾果汁來所增加的危險度<br>
+（出發時的預設危險度＋戰鬥所取得的危險度）<br>
+危險度目標表
 
-### Danger Level
+| 危險度 | 計算出的數值 | 預估品質（自慰時+☆） |
+|---|---|---|
+| 10 | 0.8 | ☆ |
+| 20 | 1.6 | ☆☆ |
+| 30 | 2.5 | ☆☆☆ |
+| 40 | 3.3 | ☆☆☆ |
+| 50 | 4.2 | ☆☆☆☆☆ |
+| 60 | 5.0 | ☆☆☆☆☆ |
+| 70 | 5.9 | ☆☆☆☆☆ |
 
-1 Day Cycle is 15 Danger Level.
+C: 0〜+(0〜3)D的隨機值<br>
+D: 0〜3的固定值<br>
+依據諾艾爾的部位開發度以及高潮的機率取決的數值<br>
+算入計算的部位有／G點／尿道／陰道內這4種類。對於諾艾爾還是純潔的情況下數值固定為0<br>
+關於這個數值的計算方式實在是非常的複雜，請別過於期待<br>
+將這個數值認定為只有C=0或1也沒有什麼問題
 
-### Chest Reel
+### 聖光爆發
 
-1. When gathering from trees, reels will stop on its own, but if you are eating a dish with a "reel speed reduction" buff, you will be able to stop the reels yourself.
-2. The formula for the appearance of the reel is (risk acquired through battle + risk acquired through noel juice)/3.
-The reel appears when the number exceeds 3, 7, 12, 17, 22, 27... etc. are exceeded.
-3. If the danger level is raised by Noel Juice, only one reel is acquired for every 15 danger levels.
+從v0.22d 開始的爆發詳細設定
 
-### Big Sister's Atelier
-
-There are pictures on the wall behind the alchemy pot. On the left is Noel in elementary school and on the right is Noel in kindergarten.
-
-### Waterfall Room under the well
-
-The room with the waterfall under the well on the map of the Witch's General Store is Levy's hideout.
-
-### Grappling Shoes
-
-Can also prevent falling from the recoil of Shotgun.
+- 使用爆發後會有6秒的冷卻時間在這個時間內再度使用爆發時昏倒的機率將會增加33%<br>依據MP的數量的多寡增加0%〜100%(魔力多〜魔力少)
+- 諾艾爾在詠唱中或者使用時冷卻時間也會變為3倍(18秒)
+- 在這個冷卻時間內再度使用的話，冷卻時間最大延伸到18秒
+- 但冷卻時間也有縮短的補正狀況
+- 諾艾爾昏倒的狀況下冷卻時間前進速度2倍(3秒後解除)
+- 使用著其他的魔術時冷卻時間前進速度0.33倍(18秒後解除)

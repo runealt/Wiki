@@ -1,4 +1,4 @@
-<h3>Chest Reels</h3>
+<h3>寶箱用轉盤</h3>
 
 <!-- This table made by Excel -->
 <!-- If you want to modify this table -->

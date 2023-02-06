@@ -4,7 +4,7 @@
 
 因為很長所以摺疊起來
 <details>
-  <summary>Click to expand the form</summary>
+  <summary>容量の拡大</summary>
 <table>
     <tr>
         <td align=center>容量擴大</td>
@@ -253,9 +253,8 @@
 </table>
 </details>
 
-Bottle Holder
 <details>
-  <summary>Click to expand the form</summary>
+  <summary>空瓶掛架</summary>
 <table>
     <tr>
         <td align=center>空瓶掛架</td>

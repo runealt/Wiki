@@ -1,56 +1,57 @@
-<h2>Chest Locations</h2>
+<h2>地圖寶箱</h2>
 
 <!-- images or urls list for this page -->
-[Enhancer]: wiki/en/table_of_contents/enhancer
-[Skill]: wiki/en/table_of_contents/skill
-[Spell]: wiki/en/table_of_contents/spelll
+[強化器]: wiki/zh-hant/table_of_contents/enhancer
+[技能]: wiki/zh-hant/table_of_contents/skill
+[魔術]: wiki/zh-hant/table_of_contents/spelll
 
-### The Witch's General Store
+### 魔女的雑貨店
 
 ![twgs](../../../assets/images/wiki/map/boxmap0.png)
 
-| Location | Item Name | How to Get | Notes  |
+| 場所 | 物品名 | 入手方法 | 備註  |
 |---|---|---|---|
-| A | Enhancer Slot | The Witch's General Store：Under the well, right side of the room with waterfall. | Extension Parts  |
-| B | Double Dodge | The Witch's General Store：Under the well, the entrance is hidden under water on the right section. The room is full of worm wall. | Enhancer Parts、Need Ground Bomb Magic |
+| A | 強化器插槽 | 魔女的雑貨店：水井下瀑布有個房間的右邊 | 擴張零件  |
+| B | 雙重迴避 | 魔女的雑貨店：水井下最右下角水面下的有一堆水和蟲的隱藏房間 | 強化器零件、需要球型炸彈 |
 
-### Forest of The Storytellers
+### 編織者之森
 
 ![fots](../../../assets/images/wiki/map/0.22mapBox.png)
 
-| Location | Item Name | How to Get | Notes  |
+| 場所 | 物品名 | 入手方法 | 備註 |
 |---|---|---|---|
-| A | Statue Talisman | Obtainable near the "How to cast magic arrow" tutorial spot. | Obtainable Early.<br><font color=red>Completion of available treasure chests is unaffected.</font>  |
-| B | 100G | From the Bench, go up near the left exit, there's a tree log on the upper side that's destructable. | Obtainable Early  |
-| C | Iris of Blood | From Evening Rain, there's a fake upper right worm wall that's passable. | [Enhancer] Parts、Obtainable Early  |
-| D | [Enhancer] Slot | Forest of The Storytellers：From Sly Supply Soldier go down from the left-down narrow passage, the entrance is right from the water pond. The room is full of worm walls. | Extension Parts、Obtainable Early  |
-| E | Shield Bash | From the Bench, left from Dog Park、Destroy the rock left from the Bench | Need Ground Bomb  |
-| F | Long Staff | Left from The Outcast, same room | [Enhancer] Parts、Obtainable Early  |
-| G | HP+10 | After Save Ixia event、Mole's Nest location, upper-left exit | Status Buff  |
-| H | Cyclone Slash | After Save Ixia event、From the Bench up from Mole's Nest location, left from bench there's a destructible rock. | [Skill]、Need Ground Bomb  |
-| I | HP+20 | Hit the red crystal below the Bench up from Mole's Nest location, this will open the right exit. | Status Buff、Need Energy Ball  |
-| J | Overspell | In the Acid Appetizer location, go down-right to thorn area, follow the path up. | [Enhancer] Parts  |
-| K | Grappling Shoes | Turn on the red crystal at far-left from Acid-Soaked Hedghehog, this will open the left exit. Solve the water puzzle in the left room. | [Enhancer] Parts  |
-| L | Falling Cat | First, from Acid-Soaked Hedghehog, go up and enter the upper-right exit. Hit the red crystal there. Then go from the other right side to finish the puzzle. | [Enhancer] Parts  |
-| M | MP+20 | From the bench at Watch Your Head, go down. | Status Buff  |
-| N | Comet Dive | From the Marionette, go left to the room full of acid. Crouch at the center wooden platform to reveal a secret passage. | [Skill]、Obtainable Early  |
-| O | HP+20 | From the Marionette, go right, solve the puzzle. | Status Buff、Obtainable Early  |
-| P | HP+20 | After defeating Merry-Go Round, go to the passage left-down. Solve the puzzle. | Status Buff  |
-| Q | Overcharger Slot | After defeating Jack in The Box(Night) enemy location, the worm floor on the lower-left will disappear. | Important Item、<font color=red>You cannot go back, so pay attention to your health.</font>  |
-| 2a | Klutz’s Secret Technique | It's on the right side of the fox fight. | [Enhancer] Parts  |
-| 2b | MP+20 |  | Status Buff |
-| 2c | Dash Strike | Puzzle at the bottom right of the right station | [Skill]、Obtainable Early  |
-| 2d | Orbital Shield | Current athletic on the right side of the right station | [Skill]  |
-| 2e | HP+10 | thorns and thistles are a welcome sight in a thorny situation | Status Buff  |
-| 2f | Foot of the Base Stealing King | After blowing up the big rock, climb up the ladder on the map just left of the right station. The block puzzle ahead | [Enhancer] Parts  |
-| 2g | Acrophobia | At the end of the road straight to the right from the entrance of the Elven Village (broken wall in the acid area) | [Enhancer] Parts  |
-| 2h | airpunch | Athletic where the wind blows upwards. | [Skill]  |
-| 2i | Omen of Wetness | Go up to the top from the left side of the map after defeating the frogs. | [Enhancer] Parts  |
-| 2j | Rainmaking Charm | It is located on the right side of the boss. | [Enhancer] Parts |
+| A | 埴輪土偶護身符 | 最一開始的故事在爬懸崖途中左側的岩石破壞、在那房間 | <font color="#60EE3C">初期入手可能</font>、沒拿不會影響寶箱完成度 |
+| B | 100G | 荊棘橋的右邊、有椅子的地方、破壞天花板的樹 | <font color="#60EE3C">初期入手可能</font> |
+| C | 血之虹彩 | 在黄昏驟雨有個隱藏房間 | 強化器零件、<font color="#60EE3C">初期入手可能</font> |
+| D | 強化器插槽 | 在卑賤的補給兵往下面、之後右邊前進有蟲的房間 | 擴張零件、<font color="#60EE3C">初期入手可能</font> |
+| E | 護盾衝擊 | 在溜狗區往左邊、有椅子的地方並破壞左邊的岩石 | 需要球型炸彈 |
+| F | 長杖 | 在迷途者左邊 | 強化器零件、<font color="#60EE3C">初期入手可能</font> |
+| G | HP+10 | 伊庫夏救出事件後、土龍的巢穴左邊的房間 | 角色強化 |
+| H | 旋風迴轉 | 伊庫夏救出事件後、上面有椅子的地方並破壞左邊的岩石上 | [技能]、需要球型炸彈 |
+| I | HP+20 | 跟右下連動的益智房間 | 角色強化、需要能量球 |
+| J | 過載魔術 | 酸木的前菜右下荊棘 | 強化器零件 |
+| K | 勾索鞋 | 在有滿滿酸液的房間、左下角的門裡面、有水益智解謎的房間 | 強化器零件 |
+| L | 下墬貓 | 酸底的針鼠往上面前進、酸液益智解謎的房間 | 強化器零件 |
+| M | MP+20 | 注意頭頂椅子的下面 | 角色強化 |
+| N | 彗星衝擊 | 有酸液瀑布的通路在途中、下面有個隱藏房間 | [技能]、<font color="#60EE3C">初期入手可能</font> |
+| O | HP+20 | 有會移動的牆壁益智解謎的房間 | 角色強化、<font color="#60EE3C">初期入手可能</font> |
+| P | HP+20 | 流鏑馬的聚集左下角通路的益智解謎的房間 | 角色強化 |
+| Q | 充電器插槽 | 盒子裡的傑克(夜)擊破之後、左下角蟲堆內的隱藏房間 | 重要品、<font color="#F54738">沒有辦法回去，請注意HP</font> |
+| 2a | 笨拙者的潛力 | 以前有聖光爆發的狐狸站右側 | [強化器] |
+| 2b | MP+20 | 和2右車站右側角的電流爬梯關卡 | 角色強化 |
+| 2c | 衝刺強襲 | 右車站右下角的解謎 | [技能]、<font color="#60EE3C">初期入手可能</font> |
+| 2d | 軌道護盾 | 右車站右側角的電流柱關卡 | [技能] |
+| 2e | HP+10 | 荊棘和梯子的刺刺迷宮 | 角色強化 |
+| 2f | 盜壘王的腳 | 將大岩爆破後、荊棘和梯子的刺刺迷宮最上方左邊的房間 | [強化器] |
+| 2g | 懼高症 | 從精靈之里入手往右邊到底有酸湖右側的牆壁炸開 | [強化器] |
+| 2h | 空中斬 | 吹著風的關卡 | [技能] |
+| 2i | 濕潤的預兆 | 青蛙擊破後地圖從左側到上面 | [強化器] |
+| 2j | 祈雨護身符 | 在頭目右側懸崖靠左邊的牆裡 | [強化器] |
+
 
 ### Event
 
-| Location | Item Name | How to Get | Notes  |
+| 地點 | 物品名 | 入手方法 | 備註  |
 |---|---|---|---|
-| Snake Battle (Mole's Nest) | Energy Ball | The snake is defeated and Ixha sends it. | [Spell]  |
-| Lower right bench after boss fight | Enhancer Slotx2 | The spoils of a defeated boss. | Extension Parts  |
+| 蛇戦（土龍之巢） | 能量球 | 將蛇頭目打倒後伊庫夏所給的 | [魔術]  |
+| 頭目戰之後右下角的椅子	 | 強化器插槽x2 | 頭目打倒後的戰利品 | 擴張零件  |

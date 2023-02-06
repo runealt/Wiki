@@ -13,8 +13,8 @@
 
 
 Table TEST
-<script async src="//jsfiddle.net/zpczjl/9tp3z4bn/embed/"></script>
 
+![items](tables/items.csv)
 
 ### Item
 

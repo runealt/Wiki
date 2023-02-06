@@ -1,4 +1,4 @@
-### Enhancer
+### 強化器 :id=enhancer
 
 <!-- images or urls list for this page -->
 [COST]: ../../../assets/images/wiki/table_of_contents/COST.png
@@ -19,7 +19,7 @@
 | 濕潤的預兆 | 更容易出現果汁 | ![COST]![COST] | [[地圖寶箱]] |
 
 
-### Not implemented Enhancer
+### 未實裝強化器 :id=niehancer
 
 | 強化器名 | 說明  |
 |---|---|

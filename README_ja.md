@@ -1,5 +1,8 @@
 ### About Wiki
 
+View this page as<br>
+| [English](README) | [日本語](README_ja) | [简体中文](README_zh-hans) | [繁體中文](README_zh-hant) | [한국어](README_ko) |
+
 ここはACTゲーム<b>「Alice In Cradle」</b>のWikiである。
 
 ページは主にMarkdownで構築されており、一部はHTMLでもある。

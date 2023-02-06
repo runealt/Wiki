@@ -1,7 +1,7 @@
 ### About Wiki
 
 View this page as<br>
-| [English](README) | [日本語](README_ja) | [简体中文](README_zh-hans) | [繁體中文](README_zh-hant) | [한국어](README_ko) |
+| [English](README) | [日本語](README_ja) | [한국어](README_ko) | [简体中文](README_zh-hans) | [繁體中文](README_zh-hant) |
 
 ここはACTゲーム<b>「Alice In Cradle」</b>のWikiである。<br>
 ページは主にMarkdownで構築されており、一部はHTMLでもある。<br>
@@ -12,8 +12,9 @@ View this page as<br>
 
 - [[English]](wiki/en/)
 - [[日本語]](wiki/ja/)
+- [[한국어]](wiki/ko/)
 - [[简体中文]](wiki/zh-hans/)
 - [[繁體中文]](wiki/zh-hant/)
-- [[한국어]](wiki/ko/)
+
 
 Wiki Theme Original Designer: [NyaaCat](https://github.com/nyaacat)

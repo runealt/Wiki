@@ -14,7 +14,7 @@
     </tr>
     <tr>
         <td>Quantity+</td>
-        <td>Quantity+</td>
+        <td>Quantity++</td>
         <td>Quantity+++</td>
         <td>QuantityX</td>
         <td>Grade+</td>

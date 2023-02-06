@@ -1,4 +1,4 @@
-### 貴重品
+### 貴重品 :id=valuable
 
 | 物品名 | 說明 | 備註 |
 |---|---|---|
@@ -11,19 +11,19 @@
 | 小孩調理鍋 | 吉爾達哥哥大人送的。這樣我也可以料理出道了！ |  |
 | 空瓶掛架 | 可以製作能將使用完的空瓶<br>放置於此處的空瓶掛架<br>放入到掛架的空瓶<br>將不會顯示在背包上<br>充分利用空間就可以多省下一格拿著物品 | 0.21新增 |
 
-### Item
+### 物品 :id=item
 
 <!-- The table here is copied directly from atwiki -->
 <!-- I was going to write it directly, but there is so much content that I don't want to retype it all. -->
 <!-- I only added rowspan="2"  to "Max Stacking Count" and removed one <td></td> -->
 
 <table>
-<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">物品名</td>
-		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">分類</td>
-		<td rowspan="2" style="background-color:#CFC;vertical-align:MIDDLE;">料理能力&amp;使用效果</td>
-		<td style="background-color:#CFC;text-align:center;" colspan="5">料理效果</td>
-		<td style="background-color:#CFC;text-align:center;" colspan="5">物品效果</td>
-		<td style="background-color:#CFC;text-align:center;">堆疊數</td></tr>
+<tbody><tr class="atwiki_tr_odd atwiki_tr_1">		<td rowspan="2" align=center>物品名</td>
+		<td rowspan="2" align=center>分類</td>
+		<td rowspan="2" align=center>料理能力&amp;使用效果</td>
+		<td colspan="5" align=center>料理效果</td>
+		<td colspan="5" align=center>物品效果</td>
+		<td rowspan="2" align=center>堆疊數</td></tr>
 <tr class="atwiki_tr_even atwiki_tr_2">
 		<td style="">1★</td>
 		<td style="">2★</td>
@@ -35,7 +35,6 @@
 		<td style="">3★</td>
 		<td style="">4★</td>
 		<td style="">5★</td>
-		<td style=""></td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">活力軟糖</td>
 		<td style="">回復</td>
 		<td style="">HP回復</td>
@@ -813,9 +812,11 @@
 </tbody></table>
 
 
-### Event Item
-| Item Name | Description |
-| --- | --- |
-| Moonlight Muguet's Bulb | It is said to be highly poisonous. Nee-sama strongly warned me not to nibble on it. |
-| Black-striped Herb | Nee-sama saids; when you make it into an essential oil, you feel very fluffy and can feel so much better~! |
-| Old Container | A time capsule buried a long time ago with Nee-sama.Nee-sama's dream is ..R-really...? |
+### 劇情用 :id=event
+
+| 物品名 | 說明 |
+|---|---|
+| 鈴蘭的球根 | 據說有猛毒。姐姐大人特別交代採的時候要小心的。 |
+| 黒條紋藥草 | 姐姐大人說、作成精油後心情會變得非常舒服<br>飄飄然的感覺！……這麼說的。。 |
+| 古舊容器 | 和姐姐大人以前埋下的時間膠囊。<br>姐姐大人將來的夢想是……<br>………………………………………。 |
+| 獣人の爆弾 | 從裝置外表的樣子看來<br>像是一個小小的包包…但是<br>大概是獸人掉落的炸彈<br>明明是沒有看過的東西<br>拿著卻讓人覺得心驚膽跳的…… |

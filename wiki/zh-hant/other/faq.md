@@ -1,27 +1,46 @@
 <h2>FAQ</h2>
 
-### Holy Burst
+### 聖光爆發
 
-Q: The Holy Burst chest can be opened infinitely. Is that a bug?<br>
-~~A: The Holy Burst chest can be opened infinitely. Is that a bug?~~<br>
-A: <font color=red>ver 0.22a (221230) The trial temporary placement period is over. It has been placed in its regular position and must be reacquired in the old version of the save</font>
+Q：聖光爆發可以一直重複拿取、這是BUG嗎？<br>
+A：~~這次因為作者努力花了三個月的結晶、為了讓大家可以多次欣賞的關係特別留著的~~<br>
+ver 0.22a (221230)後鑑賞期已過
 
-### There are 2 Benches
+### 椅子有兩個
 
-Q：There are 2 Benches on the map?<br>
-A：The Bench on ver 0.09 overlaps with the Bench on ver 0.20. ~~It's not a game-breaking bug, so it won't be fixed until the next major update.~~<br>
-<font color=red>ver 0.21n (220521)BUG Fixed</font>
+Q：地圖上面椅子的圖標有兩個<br>
+A：那是因為0.09版本的和現在0.20版本的資料重疊的緣故<br>
+~~但是因為並不是重大的BUG、所以在下次大改版之前不會修正~~<br>
+ver 0.20n (220521)後已經修正
 
-### Cyclone Slash can be use to climb walls.
+### 旋風迴轉爬牆
 
-Q：Cyclone Slash can be use to climb various walls.<br>
-~~A：It's not a game-breaking bug, so it won't be fixed until the next major update.
-Noel is smart, using that trick, she aims for the treasure chest above.~~<br>
-<font color=red>ver 0.22a (221230)BUG Fixed</font><br>
-<b>You may have a fresh start any moment you choose, for this thing that we call 'failure' is not the falling down, but the staying down.</b>
+Q：\*旋風迴轉可以在各式各樣的地方爬牆呢<br>
+A：這個跟某個鐵鎚爬山的壺男很相似、但是也因為並不是重大的BUG、~~所以在下次大改版之前不會修正、成為壺諾艾爾、向牆壁上的寶箱前進吧!~~<br>
+ver 0.22a (221230)後已經修正<br>
+所謂失敗，不在於跌倒，而在於一直倒著。
 
-### C. Urchin movements are weird.
+### 劍山汙染體的動作怪怪的
 
-Q:C. Urchin movements on Dog Park crawls the air.<br>
-A:There is a bug at the code to generate C. Urchin move path.~~It will be fixed on the next major update~~
-<font color=red>ver 0.21a (220908)BUG Fixed</font>
+Q:在的劍山汙染體的動作怪怪的的啊~<br>
+A:作者表示、因為程式碼有重大的缺陷的關係、~~下次大改版的時候大概會修正~~<br>
+ver 0.21a (220908)後已經修正
+
+### 南丁格爾
+
+Q：南丁格爾跑到奇怪的地方了
+
+![q4](../../../assets/images/wiki/other/faq/q4.png)
+
+A:這是特意的設定
+
+### 這裡要如何進去
+
+Q：門打不開
+
+![q5](../../../assets/images/wiki/other/faq/q5.png)
+
+A：將危險度上升變成晚上後，右上角的地方打過夜戰後，門就會打開
+
+- 在v022版本沒有諾艾爾的語音(包括受到攻擊的聲音)，走路的聲音也消失了 -- 名無しさん (2023-01-02 01:43:40)
+- 沒聲音是不正常的哦，可以到左下角的官方Discord跟作者回報提出錯誤履歷 -- 寝るマヒ (2023-01-02 07:08:27)

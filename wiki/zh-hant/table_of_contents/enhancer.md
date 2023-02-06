@@ -5,18 +5,19 @@
 [地圖寶箱]:  wiki/zh-hant/map/chest_locations
 
 | 強化器名 | 說明 | 耗能 | 取得方法 |
-| --- | --- | --- | --- |
-| Iris of Blood	| Displays the HP and Mana of enemies you have damaged at least once.	| ![COST] | [地圖寶箱] |
-| Grappling Shoes | Prevents falling off ledges when dodging or being knocked back by an attack. | ![COST] | [地圖寶箱] |
-| Overspell	| Increases the power of spells and shotgun casts when you have insufficient mana.(Maximum of 2x) | ![COST] | [地圖寶箱] |
-| Falling Cat	| Decreases fall speed while using magic mid-air. | ![COST] | [地圖寶箱] |
-| Long Staff | Increases the range of weak attacks and shotguns. | ![COST] | [地圖寶箱] |
-| Double Dodge | Allows for two consecutive dodges.	| ![COST] | [地圖寶箱] |
-| Foot of the Base Stealing King | Briefly become immune to any effects from physically contacting an enemy after sliding.<br>Has a cooldown before it can be used again.	| ![COST] | [地圖寶箱] |
-| Rainmaking Charm | Increases the chance of rainy weather occurring,<br>and decreases the chance of other types of weather. | ![COST] | [地圖寶箱] |
-| Acrophobia | Reduces falling speed while shielding. | ![COST] | [地圖寶箱] |
-| Klutz’s Secret Technique | Greatly reduces the amount of mana lost when taking damage,<br>but you cannot recover mana while chanting or storing a spell. | ![COST] | [地圖寶箱] |
-| Omen of Wetness	| Juice production skyrockets.	| ![COST] | [地圖寶箱] |
+|---|---|---|---|
+| 血之虹彩 | 給予敵人傷害後<br>可以看見敵人的HP和MP。。 | ![COST] | [[地圖寶箱]] |
+| 勾索鞋 | 使用迴避和受身以及被攻擊時的擊退不會掉出懸崖。。 | ![COST] | [[地圖寶箱]] |
+| 過載魔術 | 魔力不足時所使用的魔術或散彈槍攻擊力提升。<br>（最大變2倍） | ![COST] | [[地圖寶箱]] |
+| 下墬貓 | 在空中使用魔術時降落速度變慢。 | ![COST] | [[地圖寶箱]] |
+| 長杖 | 弱攻擊以及散彈槍的攻擊距離提升。 | ![COST]![COST] | [[地圖寶箱]] |
+| 雙重迴避 | 可以連續使用兩次迴避。 | ![COST]![COST] | [[地圖寶箱]] |
+| 盜壘王的腳 | 使用滑壘時身體會發出光芒<br>短暫時間不會和敵人接觸<br>沒有辦法連續使出 | ![COST]![COST] | [[地圖寶箱]] |
+| 祈雨護身符 | 雨天變得更容易出現<br>其他天氣的出現率下降 | ![COST]![COST] | [[地圖寶箱]] |
+| 懼高症 | 使護盾展開中的落下速度和<br>魔術詠唱時一樣緩慢 | ![COST]![COST] | [[地圖寶箱]] |
+| 笨拙者的潛力 | 受到傷害時失去的魔力量大幅減少<br>代價是魔術詠唱中、保持中無法回收魔力 | ![COST]![COST] | [[地圖寶箱]] |
+| 濕潤的預兆 | 更容易出現果汁 | ![COST]![COST] | [[地圖寶箱]] |
+
 
 ### Not implemented Enhancer
 

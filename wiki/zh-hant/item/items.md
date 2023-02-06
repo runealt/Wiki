@@ -17,7 +17,7 @@
 <!-- I was going to write it directly, but there is so much content that I don't want to retype it all. -->
 <!-- I only added rowspan="2"  to "Max Stacking Count" and removed one <td></td> -->
 
-<script src="wiki/zh-hant/item/tables/items.js"></script>
+<script async src="wiki/zh-hant/item/tables/items.js"></script>
 
 ### Event Item
 | Item Name | Description |

@@ -10,21 +10,21 @@
 
 <table>
     <tr>
-        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">Reel Name</td>
+        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">轉盤</td>
     </tr>
     <tr>
-        <td>Quantity+</td>
-        <td>Quantity+</td>
-        <td>Quantity+++</td>
-        <td>QuantityX</td>
-        <td>Grade+</td>
-        <td>Grade++</td>
-        <td>Grade+++</td>
-        <td>Money+</td>
-        <td>Lucky Item</td>
+        <td>數量+</td>
+        <td>數量++</td>
+        <td>數量+++</td>
+        <td>數量X</td>
+        <td>品質+</td>
+        <td>品質++</td>
+        <td>品質+++</td>
+        <td>金錢+</td>
+        <td>福袋</td>
     </tr>
     <tr>
-        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">Reel Effects</td>
+        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">轉盤効果</td>
     </tr>
     <tr>
         <td>+0</td>

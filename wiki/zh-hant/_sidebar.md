@@ -15,7 +15,7 @@
   - [戰鬥點](wiki/zh-hant/map/battle_locations) 
   - [採集點](wiki/zh-hant/map/gathering_locations) 
   - [地圖寶箱](wiki/zh-hant/map/chest_locations) 
-  - [魔族一覽](wiki/zh-hant/map/zh-hantemy_list) 
+  - [魔族一覽](wiki/zh-hant/map/enemy_list) 
 - 故事
   - [序章]
   - [覺醒的睡美人]

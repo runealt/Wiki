@@ -8,7 +8,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="color=#ffffff;background-color:YELLOW;" colspan="3">沙拉</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td align=center style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td align=center style="background-color:#CFC;">食譜</td>
 		<td align=center style="background-color:#CFC;color=#ffffff;">追加可能的特殊能力</td>
 		<td align=center style="background-color:#CFC;color=#ffffff;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">蔬菜x1</td>
@@ -29,7 +29,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="color=#ffffff;background-color:YELLOW;" colspan="3">三明治</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td align=center style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td align=center style="background-color:#CFC;">食譜</td>
 		<td align=center style="background-color:#CFC;color=#ffffff;">追加可能的特殊能力</td>
 		<td align=center style="background-color:#CFC;color=#ffffff;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">麵包x2</td>
@@ -51,7 +51,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td align=center style="color=#ffffff;background-color:YELLOW;" colspan="3">燉菜</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td align=center style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td align=center style="background-color:#CFC;">食譜</td>
 		<td align=center style="background-color:#CFC;color=#ffffff;">追加可能的特殊能力</td>
 		<td align=center style="background-color:#CFC;color=#ffffff;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">肉x2~4</td>
@@ -82,7 +82,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">湯</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td rowspan="2" style="vertical-align:BOTTOM;">蔬菜<br><br><br>or<br><br><br>蘑菇x3</td>
@@ -107,7 +107,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">牛排</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">肉x3~4</td>
@@ -129,7 +129,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">麵包</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">穀物x2~5</td>
@@ -145,7 +145,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">漢堡包</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">麵包x2</td>
@@ -167,7 +167,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">早安套餐</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">煎雞蛋</td>
@@ -189,7 +189,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">煎雞蛋</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">ノエルの卵<br>or家畜の卵</td>
@@ -205,7 +205,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">炒蔬菜</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">肉x2~4</td>
@@ -230,7 +230,7 @@
 <table>
 <tbody><tr class="atwiki_tr_odd atwiki_tr_1">
 		<td style="text-align:center;background-color:YELLOW;" colspan="3">油</td></tr>
-<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">レシピ</td>
+<tr class="atwiki_tr_even atwiki_tr_2">		<td style="background-color:#CFC;">食譜</td>
 		<td style="background-color:#CFC;text-align:center;">追加可能的特殊能力</td>
 		<td style="background-color:#CFC;text-align:center;">影響度</td></tr>
 <tr class="atwiki_tr_odd atwiki_tr_3">		<td style="">トウモロコシx4</td>

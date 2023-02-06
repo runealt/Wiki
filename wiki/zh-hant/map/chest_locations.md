@@ -5,7 +5,7 @@
 [技能]: wiki/zh-hant/table_of_contents/skill
 [魔術]: wiki/zh-hant/table_of_contents/spelll
 
-### 魔女的雑貨店
+### 魔女的雑貨店 :id=twgs
 
 ![twgs](../../../assets/images/wiki/map/boxmap0.png)
 
@@ -14,7 +14,7 @@
 | A | 強化器插槽 | 魔女的雑貨店：水井下瀑布有個房間的右邊 | 擴張零件  |
 | B | 雙重迴避 | 魔女的雑貨店：水井下最右下角水面下的有一堆水和蟲的隱藏房間 | 強化器零件、需要球型炸彈 |
 
-### 編織者之森
+### 編織者之森 :id=fots
 
 ![fots](../../../assets/images/wiki/map/0.22mapBox.png)
 
@@ -49,7 +49,7 @@
 | 2j | 祈雨護身符 | 在頭目右側懸崖靠左邊的牆裡 | [強化器] |
 
 
-### Event
+### 劇情 :id=event
 
 | 地點 | 物品名 | 入手方法 | 備註  |
 |---|---|---|---|

@@ -27,4 +27,5 @@
   - [常有的問題](wiki/zh-hant/other/faq) 
   - [改版情報](wiki/zh-hant/other/update_information) 
   - [愛麗搖籃進度如何](wiki/zh-hant/other/progress_rate)
+  - [版本的變更點](wiki/zh-hant/other/update_points)
   - [GitHub](https://github.com/AliceInCradle-Community) 

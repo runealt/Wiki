@@ -14,7 +14,7 @@
 - `<tr>`表示行的开始和结束
 - `<td>`表示行中的单元格(嵌套在`<tr>`中使用
 
-同时对于`<tr>`和`<td>`也有很多参数可用于排版，此处仅列出常用参数，使用格式均为`parameter_name="parameter_set"`或`parameter_name="parameter_set:detail_set"`
+同时对于`<tr>`和`<td>`也有很多参数可用于排版，此处仅列出常用参数，使用格式均为`parameter_name="parameter_set"`或`parameter_name="parameter_set:detail_set"`, 并且应用于`<tr>`中则对整行生效，应用于`<td>`则仅作用于对应单元格
 
 `parameter_name="parameter_set"`:
 
@@ -46,8 +46,8 @@
     <td alt="原第四格">1★</td>
     <td alt="原第五格">2★</td>
     <td alt="原第六格">3★</td>
-    <td alt="原第四格">4★</td>
-    <td alt="原第四格">5★</td>
+    <td alt="原第七格">4★</td>
+    <td alt="原第八格">5★</td>
   </tr>
   <tr alt="第三行">
     <!-- 在设定完成标题单元格后，即可按照对应单元格的位置填写内容 -->
@@ -65,6 +65,7 @@
 ```
 
 效果:
+
 <table>
   <tr alt="第一行">
     <td rowspan="2">物品</td>
@@ -78,8 +79,8 @@
     <td alt="原第四格">1★</td>
     <td alt="原第五格">2★</td>
     <td alt="原第六格">3★</td>
-    <td alt="原第四格">4★</td>
-    <td alt="原第四格">5★</td>
+    <td alt="原第七格">4★</td>
+    <td alt="原第八格">5★</td>
   </tr>
   <tr alt="第三行">
     <!-- 在设定完成标题单元格后，即可按照对应单元格的位置填写内容 -->
@@ -98,25 +99,23 @@
 做完表格后，你也可以利用各种参数来美化表格<br>
 例如为表格标题格设置颜色，文字对齐方式和文字颜色：
 
-
-<table align="center" bgcolor="ff6666">
-  <tr alt="第一行">
+```
+<table>
+  <tr alt="第一行" align="center" bgcolor="ff6666" style="color:#ffffff">
     <td rowspan="2">物品</td>
     <td rowspan="2">分类</td>
     <td rowspan="2">料理能力/使用效果</td>
     <td colspan="5">效果加成</td>
     <td rowspan="2">堆叠数</td>
   </tr>
-  <tr alt="第二行">
-    <!-- 注意：第一行部分单元格已合并第二行的对应单元格，则这些单元格应当省略不写 -->
+  <tr alt="第二行" align="center">
     <td alt="原第四格">1★</td>
     <td alt="原第五格">2★</td>
     <td alt="原第六格">3★</td>
-    <td alt="原第四格">4★</td>
-    <td alt="原第四格">5★</td>
+    <td alt="原第七格">4★</td>
+    <td alt="原第八格">5★</td>
   </tr>
   <tr alt="第三行">
-    <!-- 在设定完成标题单元格后，即可按照对应单元格的位置填写内容 -->
     <td>血樱桃</td>
     <td>果实</td>
     <td>最大HP上升<br>诺艾儿的HP回复</td>
@@ -128,3 +127,52 @@
     <td>8</td>
   </tr>
 </table>
+```
+
+效果:
+
+<table>
+  <tr alt="第一行" align="center" bgcolor="ff6666" style="color:#ffffff">
+    <td rowspan="2">物品</td>
+    <td rowspan="2">分类</td>
+    <td rowspan="2">料理能力/使用效果</td>
+    <td colspan="5">效果加成</td>
+    <td rowspan="2">堆叠数</td>
+  </tr>
+  <tr alt="第二行" align="center">
+    <td alt="原第四格">1★</td>
+    <td alt="原第五格">2★</td>
+    <td alt="原第六格">3★</td>
+    <td alt="原第七格">4★</td>
+    <td alt="原第八格">5★</td>
+  </tr>
+  <tr alt="第三行">
+    <td>血樱桃</td>
+    <td>果实</td>
+    <td>最大HP上升<br>诺艾儿的HP回复</td>
+    <td>+10%</td>
+    <td>+12%</td>
+    <td>+14%</td>
+    <td>+16%</td>
+    <td>+18%</td>
+    <td>8</td>
+  </tr>
+</table>
+
+当然HTML代码也可以不提行，如果你愿意也可以全部写为一行，但是这也并不利于编辑。你也可以利用这个特性将HTML代码排版为于表格对应的格式，例如:
+
+```
+<table>
+  <tr alt="第一行" align="center" bgcolor="ff6666" style="color:#ffffff">
+    <td rowspan="2">物品</td><td rowspan="2">分类</td><td rowspan="2">料理能力/使用效果</td><td colspan="5">效果加成</td><td rowspan="2">堆叠数</td>
+  </tr>
+  <tr alt="第二行" align="center">
+    <td>1★</td><td>2★</td><td>3★</td><td>4★</td><td>5★</td>
+  </tr>
+  <tr alt="第三行">
+    <td>血樱桃</td><td>果实</td><td>最大HP上升<br>诺艾儿的HP回复</td><td>+10%</td><td>+12%</td><td>+14%</td><td>+16%</td><td>+18%</td><td>8</td>
+  </tr>
+</table>
+```
+
+他们的显示效果并不会有任何区别

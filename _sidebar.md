@@ -1,5 +1,5 @@
 - [Contribution](contribution_v2/contribute)
-  - [Common](contribution_v2/common/syntax)
+  - [Syntax](contribution_v2/common/syntax)
 - Wiki 
   - [English](wiki/en/)
   - [日本語](wiki/ja/)

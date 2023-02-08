@@ -12,7 +12,7 @@
 
 - `<table>`表示表格的开始和结束
 - `<tr>`表示行的开始和结束
-- `<td>`表示行中的单元格(嵌套在`<tr>`中使用
+- `<td>`表示行中的单元格(嵌套在`<tr>`中使用)
 
 同时对于`<tr>`和`<td>`也有很多参数可用于排版，此处仅列出常用参数，使用格式均为`parameter_name="parameter_set"`或`parameter_name="parameter_set:detail_set"`, 并且应用于`<tr>`中则对整行生效，应用于`<td>`则仅作用于对应单元格
 

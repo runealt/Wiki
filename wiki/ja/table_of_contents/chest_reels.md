@@ -1,4 +1,4 @@
-<h3>寶箱用轉盤</h3>
+<h3>宝箱用リール</h3>
 
 <!-- This table made by Excel -->
 <!-- If you want to modify this table -->
@@ -10,21 +10,21 @@
 
 <table>
     <tr>
-        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">轉盤</td>
+        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">リール名</td>
     </tr>
     <tr>
-        <td>數量+</td>
-        <td>數量++</td>
-        <td>數量+++</td>
-        <td>數量X</td>
-        <td>品質+</td>
-        <td>品質++</td>
-        <td>品質+++</td>
-        <td>金錢+</td>
+        <td>個数+</td>
+        <td>個数++</td>
+        <td>個数+++</td>
+        <td>個数X</td>
+        <td>グレード+</td>
+        <td>グレード++</td>
+        <td>グレード+++</td>
+        <td>お金+</td>
         <td>福袋</td>
     </tr>
     <tr>
-        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">轉盤効果</td>
+        <td colspan="9" bgcolor="#ff6666" style="color:#ffffff" align="center">リール効果</td>
     </tr>
     <tr>
         <td>+0</td>

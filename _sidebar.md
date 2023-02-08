@@ -1,5 +1,7 @@
 - [Contribution](contribution/contribute.md)
   - [Common Formats](contribution/common-formats.md)
+- [Contribution_v2](contribution_v2/contribute.md)
+  - [Common](contribution_v2/common)
 - Wiki 
   - [English](wiki/en/)
   - [日本語](wiki/ja/)

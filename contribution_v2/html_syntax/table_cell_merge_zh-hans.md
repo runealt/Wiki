@@ -2,7 +2,7 @@
 
 对于无需合并单元格的表格，推荐你使用Markdown表格进行编写，但如果涉及到单元格合并，那么你必须使用HTML表格。
 
-如果你觉得编写HTML表格对你来说太难了，你也可以[点击此处](contribution_v2/html_syntax/table_by_excel_zh-hans)了解如何使用Excel制表，Excel制表同样支持单元格合并和更复杂的表格制作。
+如果你觉得编写HTML表格对你来说太难了，你也可以[点击此处](contribution_v2/html_syntax/table_by_excel_zh-hans)了解如何使用Excel制表，Excel制表同样支持单元格合并和更复杂的表格制作。但是这样制表，后续的数据修改都需要通过Excel，并且如果你对生成的HTML表格进行了部分外观微调，重新生成的HTML将需要再次修改(Excel输出的表格不包含你在Excel中设置的任何颜色设置和文本对齐设置)
 
 在了解如何合并单元格前，你需要了解HTML表格的制作。
 

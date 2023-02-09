@@ -8,7 +8,7 @@
   <p>Output</p>
   <div id="result"></div>
 
-<script>
+<script type="text/javascript">
   // 文件普通操作
   var handler = {};
   // 文件导出操作

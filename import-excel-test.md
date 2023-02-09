@@ -1,8 +1,5 @@
-<div>
-<div id="result" contenteditable></div>
-<xlsx-render content="wiki/en/item/xlsx/chest_reels.xlsx"><xlsx-render>
-</div>
-<script type="text/javascript" src="assets/xslx-loader/num/main-1.js"></script>
-<div id="table-1" contenteditable></div>
-<xlsx-render1 content="test.xlsx"><xlsx-render1>
-</div>
+<div id="result1"></div>
+<xlsx-render1 content="wiki/en/item/xlsx/chest_reels.xlsx"><xlsx-render2>
+  
+<div id="result2" contenteditable></div>
+<xlsx-render2 content="test.xlsx"><xlsx-render2>

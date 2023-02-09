@@ -1,23 +1,23 @@
 // 从网络上读取某个excel文件，url必须同域，否则报错
-function readworkbook01FromRemoteFile(url, callback) {
+function readworkbook1FromRemoteFile(url, callback) {
   var xhr = new XMLHttpRequest();
   xhr.open("get", url, true);
   xhr.responseType = "arraybuffer";
   xhr.onload = function (e) {
     if (xhr.status == 200) {
       var data = new Uint8Array(xhr.response);
-      var workbook01 = XLSX.read(data, { type: "array" });
-      if (callback) callback(workbook01);
+      var workbook1 = XLSX.read(data, { type: "array" });
+      if (callback) callback(workbook1);
     }
   };
   xhr.send();
 }
 
 // 读取 excel文件
-function outputworkbook01(workbook01) {
-  var sheetNames = workbook01.SheetNames; // 工作表名称集合
+function outputworkbook1(workbook1) {
+  var sheetNames = workbook1.SheetNames; // 工作表名称集合
   sheetNames.forEach((name) => {
-    var worksheet = workbook01.Sheets[name]; // 只能通过工作表名称来获取指定工作表
+    var worksheet = workbook1.Sheets[name]; // 只能通过工作表名称来获取指定工作表
     for (var key in worksheet) {
       // v是读取单元格的原始值
       console.log(key, key[0] === "!" ? worksheet[key] : worksheet[key].v);
@@ -25,14 +25,14 @@ function outputworkbook01(workbook01) {
   });
 }
 
-function readworkbook01(workbook01) {
-  var sheetNames = workbook01.SheetNames; // 工作表名称集合
-  var worksheet = workbook01.Sheets[sheetNames[0]]; // 这里我们只读取第一张sheet
+function readworkbook1(workbook1) {
+  var sheetNames = workbook1.SheetNames; // 工作表名称集合
+  var worksheet = workbook1.Sheets[sheetNames[0]]; // 这里我们只读取第一张sheet
   var csv = XLSX.utils.sheet_to_csv(worksheet);
   document.getElementById("result01").innerHTML = csv2table(csv);
 
   // 合并单元格
-  mergeTable(workbook01, true);
+  mergeTable(workbook1, true);
 }
 
 // 将csv转换成表格
@@ -53,9 +53,9 @@ function csv2table(csv) {
 }
 
 // 合并单元格
-function mergeTable(workbook01) {
-  let SheetNames = workbook01.SheetNames[0];
-  let mergeInfo = workbook01.Sheets[SheetNames]["!merges"];
+function mergeTable(workbook1) {
+  let SheetNames = workbook1.SheetNames[0];
+  let mergeInfo = workbook1.Sheets[SheetNames]["!merges"];
   let result = document.getElementById("result01");
 
   mergeInfo.forEach((item01) => {
@@ -96,8 +96,8 @@ function mergeTable(workbook01) {
 }
 
 function loadRemoteFile(url) {
-  readworkbook01FromRemoteFile(url, function (workbook01) {
-    readworkbook01(workbook01);
+  readworkbook1FromRemoteFile(url, function (workbook1) {
+    readworkbook1(workbook1);
   });
 }
 

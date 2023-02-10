@@ -37,7 +37,7 @@ function readworkbook14(workbook14) {
 
 // 将csv转换成表格
 function csv2table(csv) {
-  var html = "<table>";
+  var html = "<table class=excel>";
   var rows = csv.split("\n");
   rows.pop(); // 最后一行没用的
   rows.forEach(function (row, idx) {

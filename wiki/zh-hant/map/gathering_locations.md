@@ -4,29 +4,9 @@
 
 ### 水 :id=water
 
-<table>
-<tbody><tr>
-<td style="background-color:#CFC;color:#ffffff;">物品名</td>
-<td style="background-color:#CFC;color:#ffffff;">內容物</td>
-<td style="background-color:#CFC;color:#ffffff;">備註</td>
-</tr>
-<tr>
-<td rowspan="5" align=center">新鲜的水 </td>
-		<td style="">新鲜的水★★x10</td>
-		<td rowspan="5" align=center">採水區全部一樣</td></tr>
-<tr class="atwiki_tr_odd atwiki_tr_3">
-		<td style="">新鲜的水★★★x10</td>
-</tr>
-<tr class="atwiki_tr_even atwiki_tr_4">
-		<td style="">新鲜的水★★x10</td>
-</tr>
-<tr class="atwiki_tr_odd atwiki_tr_5">
-		<td style="">新鲜的水★★x10</td>
-</tr>
-<tr class="atwiki_tr_even atwiki_tr_6">
-		<td style="">新鲜的水★★x10</td>
-</tr>
-</tbody></table>
+<script type="text/javascript" src="assets/xlsx-loader/num/01.js"></script>
+<xlsx-render01 content="wiki/zh-hant/map/xlsx/water.xlsx"></xlsx-render01>
+<div id="result01"></div>
 
 ### 樹木、礦點 :id=to
 

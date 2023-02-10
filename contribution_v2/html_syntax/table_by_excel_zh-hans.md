@@ -26,7 +26,7 @@ content后的参数为xlsx文件的路径<br>
 
 ```
 <script type="text/javascript" src="assets/xlsx-loader/num/01.js"></script>
-<xlsx-render01 content="wiki/en/table_of_content/xlsx/chest_reels.xlsx"></xlsx-render01>
+<xlsx-render01 content="wiki/en/table_of_contents/xlsx/chest_reels.xlsx"></xlsx-render01>
 ```
 
 此时，如果我想在任意位置插入引用的表格，则需要在对应位置插入

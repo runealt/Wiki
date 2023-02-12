@@ -6,5 +6,3 @@
   - [한국어](wiki/ko/)
   - [简体中文](wiki/zh-hans/)
   - [繁體中文](wiki/zh-hant/)
-- [Contribution_old](contribution/contribute.md)
-  - [Common Formats](contribution/common-formats.md)

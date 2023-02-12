@@ -6,7 +6,7 @@ View this page as<br>
 ここはACTゲーム<b>「Alice In Cradle」</b>のWikiである。<br>
 ページは主にMarkdownで構築されており、一部はHTMLでもある。<br>
 また、編集を適用する前に、事前にレビューを行うのは必要です。<br>
-このWikiの編集方法については[ここをクリックして](contribution/contribute.md)ご覧ください。
+このWikiの編集方法については[ここをクリックして](contribution_v2/contribute_ja)ご覧ください。
 
 ### Languages of Wiki
 

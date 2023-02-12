@@ -6,7 +6,7 @@ View this page as<br>
 Here is the Wiki of ACT game <b>AliceInCradle</b><br>
 All pages are written via Markdown and a small amount of HTML.<br>
 Also, after modification you should preview locally in advance.<br>
-For how to modify this wiki, please [click here](contribution_v2/contribute) for details.
+For how to modify this wiki, please [click here](contribution_v2/contribute_en) for details.
 
 ### Languages of Wiki
 

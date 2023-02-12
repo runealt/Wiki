@@ -82,7 +82,7 @@ AicWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [Gi
    - 如使用 VS Code，可以安装插件 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)，然后点击右下角的 **Go Live**，用浏览器访问 `localhost:5500` 即可预览。  
    - 对于其它情况，可运行 `docsify serve`，然后浏览`localhost:4000`。
 10. 本 Wiki 没有限制使用自定义 CSS，但请尽量避免使用这一手段改变内容样式。<br>
-   若有需要，也可参考[其他样式](contribution_v2/stylesheet/others)
+   若有需要，也可参考[其他样式](contribution_v2/stylesheet/others_zh-hans)
 12. 所有 commit 的备注内容都将公开于众，为便于跟踪与更正，应如实概括所作变更，并避免加入任何无关信息。
 
 (WIP)
@@ -90,5 +90,5 @@ AicWiki 采用 [Docsify](https://docsify.js.org) 构建，源文件存放于 [Gi
 ### 推荐资源
 
 * [Docsify 的特有文档语法](https://docsify.js.org/#/helpers)
-* [其他样式](contribution_v2/stylesheet/others)
+* [其他样式](contribution_v2/stylesheet/others_zh-hans)
 * [Jpgmin](https://jpgmin.cn)——Mozjpeg 与 PngQuant 的第三方网页界面，压缩效果好，可批量压缩，操作简便。

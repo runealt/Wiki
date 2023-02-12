@@ -1,4 +1,5 @@
 - [Contribution](contribution_v2/contribute)
+  - [Start](contribution_v2/common/start)
   - [Syntax](contribution_v2/common/syntax)
 - Wiki 
   - [English](wiki/en/)

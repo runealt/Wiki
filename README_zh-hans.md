@@ -6,7 +6,7 @@ View this page as<br>
 这里是ACT游戏<b>《Alice In Cradle》</b>的Wiki。<br>
 页面主要使用Markdown构建，也包含有部分HTML。<br>
 此外，在应用编辑前，应当提前进行预览检查。<br>
-请[点击这里](contribution/contribute.md)详细了解如何编辑这个Wiki。
+请[点击这里](contribution_v2/contribute_zh-hans)详细了解如何编辑这个Wiki。
 
 ### Languages of Wiki
 

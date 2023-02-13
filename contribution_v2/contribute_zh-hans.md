@@ -9,6 +9,6 @@
 
 但是如果你想使用第二种方式进行修改, 你需要安装 nodejs 和 docsify, 请[点击此处](https://docsify.js.org/)了解详情.
 
-推荐的文本编辑器: Microsoft Visual Studio Code.
+推荐的文本编辑器： [Microsoft Visual Studio Code](https://code.visualstudio.com/)。
 
 当然，你也可以使用任意支持Markdown的编辑器.

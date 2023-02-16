@@ -7,3 +7,5 @@
   - [한국어](wiki/ko/)
   - [简体中文](wiki/zh-hans/)
   - [繁體中文](wiki/zh-hant/)
+- Game File
+  - [File Hash](others/file_hash)

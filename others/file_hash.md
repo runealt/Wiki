@@ -2,6 +2,8 @@
 
 ### v0.22
 
+<details>
+  <summary>Click to expand the file hash table</summary>
 Windows:
 
 | File Name | SHA1 | CRC32 |
@@ -29,3 +31,4 @@ Mac:
 | Mac(Full) ver022n_2.zip | fefd73bf451629b93dc1e0889be38b37d75bb7ef | b52ad08b |
 | Mac(Full) ver022o_2.zip | 5233f6378206b735c0e5aa44c2ffa9fdab4ba929 | 49150b1d |
 | Mac(Full) ver022p_2.zip | 5ed57a505d4dee4872fb4bea4d8237c15eb96af2 | 9ff708dd |
+</details>

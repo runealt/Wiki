@@ -16,4 +16,6 @@ For how to modify this wiki, please [click here](contribution_v2/contribute_en) 
 - [[简体中文]](wiki/zh-hans/)
 - [[繁體中文]](wiki/zh-hant/)
 
+Feedback: https://github.com/AliceInCradle-Community/Wiki/issues
+
 Wiki Theme Original Designer: [NyaaCat](https://github.com/nyaacat)

@@ -60,6 +60,12 @@ from:Mizuha Hashino(Tweet)&HinaYua
 
 ![Laevigata_Cornehl_2](../../../assets/images/wiki/other/character_design/Laevigata_Cornehl_2.jpg)
 
+### Mepha・Gridyard
+
+[Source](https://twitter.com/HashinoMizuha/status/1495431408793251841)
+
+![Mepha_Gridyard_1](../../../assets/images/wiki/other/character_design/Mepha_Gridyard_1.png)
+
 ### Mysterious Girl???(temporary)
 
 [Source](https://twitter.com/hinayua_r18/status/1249949660938043392)

@@ -36,7 +36,7 @@ from:Mizuha Hashino(Tweet)&HinaYua
 
 ![Ixia_Polystachya_1](../../../assets/images/wiki/other/character_design/Ixia_Polystachya_1.jpg)
 
-### Alma
+### Alma Opfebaum
 
 [Source](https://twitter.com/HashinoMizuha/status/1495431408793251841)
 

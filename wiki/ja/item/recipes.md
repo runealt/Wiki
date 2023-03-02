@@ -6,93 +6,18 @@
 <details>
   <summary>容量の拡大</summary>
   <script type="text/javascript" src="assets/xlsx-loader/num/01.js"></script>
-<xlsx-render01 content="wiki/ja/item/xlsx/recipes.xlsx"></xlsx-render01>
+<xlsx-render01 content="wiki/ja/item/xlsx/recipes_expand.xlsx"></xlsx-render01>
 <div id="result01"></div>
 </details>
 
 <details>
   <summary>空き瓶ホルダー</summary>
-<table>
-    <tr>
-        <td align=center>空き瓶ホルダー</td>
-        <td align=center colspan="3">必要素材</td>
-    </tr>
-    <tr>
-        <td align=center>現在的數量</td>
-        <td align=center>玻璃碎片</td>
-        <td align=center>紫水晶</td>
-        <td align=center>枯草</td>
-    </tr>
-    <tr>
-        <td>0</td>
-        <td>3</td>
-        <td>-</td>
-        <td>14</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>3</td>
-        <td>-</td>
-        <td>16</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>4</td>
-        <td>2</td>
-        <td>18</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>4</td>
-        <td>4</td>
-        <td>20</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>5</td>
-        <td>6</td>
-        <td>22</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>5</td>
-        <td>8</td>
-        <td>24</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>6</td>
-        <td>10</td>
-        <td>26</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>6</td>
-        <td>12</td>
-        <td>28</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>7</td>
-        <td>14</td>
-        <td>30</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>7</td>
-        <td>16</td>
-        <td>32</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-    </tr>
-</table>
+  <script type="text/javascript" src="assets/xlsx-loader/num/02.js"></script>
+<xlsx-render01 content="wiki/ja/item/xlsx/recipes_bottle.xlsx"></xlsx-render01>
+<div id="result02"></div>
 </details>
 
-### 錬金配方 :id=alchemy
+### 錬金レシピ :id=alchemy
 
 | 物品名 | 配方 |
 |---|---|
@@ -103,7 +28,7 @@
 | 空瓶子 | 玻璃碎片x4+水晶+石炭x4 |
 
 
-### 料理食譜 :id=cooking
+### 料理レシピ :id=cooking
 
 | 物品名 | 食譜最低要求 |
 |---|---|

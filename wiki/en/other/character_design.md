@@ -62,7 +62,7 @@ from:Mizuha Hashino(Tweet)&HinaYua
 
 ### Mepha・Gridyard
 
-[Source](https://twitter.com/HashinoMizuha/status/1495431408793251841)
+[Source](https://twitter.com/HashinoMizuha/status/1610674474038472704)
 
 ![Mepha_Gridyard_1](../../../assets/images/wiki/other/character_design/Mepha_Gridyard_1.png)
 

@@ -1,3 +1,9 @@
+<script type="text/javascript" src="assets/xlsx-loader/num/01.js"></script>
+<xlsx-render01 content="wiki/ja/item/xlsx/recipes_expand.xlsx"></xlsx-render01>
+<script type="text/javascript" src="assets/xlsx-loader/num/02.js"></script>
+<xlsx-render01 content="wiki/ja/item/xlsx/recipes_bottle.xlsx"></xlsx-render02>
+
+
 <h2>配方</h2>
 
 ### 作業台レシピ :id=crafting
@@ -5,16 +11,12 @@
 長いので折り畳みます
 <details>
   <summary>容量の拡大</summary>
-  <script type="text/javascript" src="assets/xlsx-loader/num/01.js"></script>
-<xlsx-render01 content="wiki/ja/item/xlsx/recipes_expand.xlsx"></xlsx-render01>
 <div id="result01"></div>
 </details>
 
 <details>
   <summary>空き瓶ホルダー</summary>
-  <script type="text/javascript" src="assets/xlsx-loader/num/02.js"></script>
-<xlsx-render01 content="wiki/ja/item/xlsx/recipes_bottle.xlsx"></xlsx-render02>
-<div id="result02"></div>
+  <div id="result02"></div>
 </details>
 
 ### 錬金レシピ :id=alchemy

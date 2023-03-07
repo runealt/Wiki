@@ -23,7 +23,7 @@ Alice In Cradleとは「 KAWAISOU is KAWAII 」かわいそうはかわいいの
 <img src="/assets/images/wiki/Twitter.png" height="20px">[橋野みずは](https://twitter.com/HashinoMizuha)<br>
 <img src="/assets/images/wiki/youtube.png" height="18px">[橋野みずは](https://www.youtube.com/channel/UCr3WJjlSJtf1qUYd3DoPoBg)<br>
 
-### ビージーエム
+### BGM
 
 <img src="/assets/images/wiki/Twitter.png" height="20px">[ginkiha](https://twitter.com/ginkiha)<br>
 <img src="/assets/images/wiki/Twitter.png" height="20px">[An](https://twitter.com/an_fillnote)<br>

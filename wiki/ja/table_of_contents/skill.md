@@ -1,7 +1,7 @@
 <h3>スキル</h3>
 
 <!-- このマークを使用しページ内のURLをリダイレクト可能 -->
-[マップ宝箱]: wiki/ja/map/chest_locations
+[マップ宝箱]: wiki/ja/map/chest_locations.md
 
 #### 攻擊スキル :id=attack
 

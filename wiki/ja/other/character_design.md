@@ -1,8 +1,8 @@
-<h2>人物原畫</h2>
+<h2>キャラデザイン</h2>
 
-來自:橋野みずは的轉推(Tweet)&ひなゆあ的轉推
+from:橋野みずはのツイッター&ひなゆあのツイッター
 
-### 諾艾爾・柯奈爾
+### ノエル・コルネール
 
 [原文](https://twitter.com/HashinoMizuha/status/1185245323746136064)
 
@@ -16,7 +16,7 @@
 
 ![NoelCornehl_4](../../../assets/images/wiki/other/character_design/NoelCornehl_4.jpg)
 
-### 南丁格爾
+### ナイチンゲール
 
 [彩月わくら(twitter)](https://twitter.com/Aliceblue_tea)
 
@@ -30,7 +30,7 @@
 
 ![Nightingale_3](../../../assets/images/wiki/other/character_design/Nightingale_3.png)
 
-### 伊庫夏・波利斯塔奇亞
+### イクシャ・ポリスタキア
 
 [せきら あめ(twitter)](https://twitter.com/sekira_ame)
 
@@ -38,13 +38,13 @@
 
 ![Ixia_Polystachya_1](../../../assets/images/wiki/other/character_design/Ixia_Polystachya_1.jpg)
 
-### Alma
+### アルマ・オプフェバム
 
 [原文](https://twitter.com/HashinoMizuha/status/1495431408793251841)
 
 ![Alma_1](../../../assets/images/wiki/other/character_design/Alma_1.jpg)
 
-### 普莉姆拉
+### プリムラ
 
 [すなぷあ(twitter)](https://twitter.com/sunapua3)
 
@@ -52,7 +52,7 @@
 
 ![Primula_1](../../../assets/images/wiki/other/character_design/Primula_1.png)
 
-### 利維加塔・柯奈爾
+### レヴィガータ・コルネール
 
 [ふた様(twitter)](https://twitter.com/futausa155)
 
@@ -64,7 +64,7 @@
 
 ![Laevigata_Cornehl_2](../../../assets/images/wiki/other/character_design/Laevigata_Cornehl_2.jpg)
 
-### 幽靈少女???(暫稱)
+### 幽靈少女???(暫定)
 
 [原文](https://twitter.com/hinayua_r18/status/1249949660938043392)
 

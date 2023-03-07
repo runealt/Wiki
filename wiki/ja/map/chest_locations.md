@@ -1,7 +1,7 @@
 <h2>マップ宝箱</h2>
 
 <!-- images or urls list for this page -->
-[エンハンサー]: wiki/jp-hant/table_of_contents/enhancer
+[エンハンサー]: wiki/ja/table_of_contents/enhancer
 [スキル]: wiki/jp-hant/table_of_contents/skill
 [魔法]: wiki/jp-hant/table_of_contents/spelll
 

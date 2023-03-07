@@ -1,5 +1,5 @@
-<h2>地圖</h2>
+<h2>マップ</h2>
 
-### 編織者之森 :id=fots
+### 紡ぐ者の森 :id=fots
 
 ![fots](../../../assets/images/wiki/map/0.22map.png)

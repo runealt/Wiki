@@ -17,6 +17,7 @@ Windows:
 | Win(Full) ver022n_2.zip | cc0a967510ce9693f9a05d491d900704649e7a14 | 4a4847af |
 | Win(Full) ver022o_2.zip | 9f46e87762e24eddc7532f74862d060ce8e92c06 | 9f734b51 |
 | Win(Full) ver022p_2.zip | 956f99112662cf15aac1f77ffd034bfe4b5b92ec | 8fa6173c |
+| Win(Full) ver022q.zip | c6e0d42a1ac2abf50e982028fe5ffc8fcb3b673b | 8cc7aecc |
 
 Mac:
 
@@ -31,4 +32,5 @@ Mac:
 | Mac(Full) ver022n_2.zip | fefd73bf451629b93dc1e0889be38b37d75bb7ef | b52ad08b |
 | Mac(Full) ver022o_2.zip | 5233f6378206b735c0e5aa44c2ffa9fdab4ba929 | 49150b1d |
 | Mac(Full) ver022p_2.zip | 5ed57a505d4dee4872fb4bea4d8237c15eb96af2 | 9ff708dd |
+| Mac(Full) ver022q.zip | 960a225405874d98bc90511733e8e22d8649861e | c58141e5 |
 </details>

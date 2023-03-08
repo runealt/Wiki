@@ -1,9 +1,9 @@
 <h2>物品入手方法</h2>
 
 <!-- images or urls list for this page -->
-[宝箱マップ]:  wiki/jp/map/chest_locations
-[レシピ]: wiki/jp/item/recipes
-[採掘ポイント]: wiki/jp/map/gathering_locations
+[宝箱マップ]:  wiki/ja/map/chest_locations
+[レシピ]: wiki/ja/item/recipes
+[採掘ポイント]: wiki/ja/map/gathering_locations
 
 ### 貴重品 :id=v
 

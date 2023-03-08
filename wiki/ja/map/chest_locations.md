@@ -2,8 +2,8 @@
 
 <!-- images or urls list for this page -->
 [エンハンサー]: wiki/ja/table_of_contents/enhancer
-[スキル]: wiki/jp/table_of_contents/skill
-[魔法]: wiki/jp/table_of_contents/spelll
+[スキル]: wiki/ja/table_of_contents/skill
+[魔法]: wiki/j/table_of_contents/spelll
 
 ### 魔女の雑貨店 :id=twgs
 

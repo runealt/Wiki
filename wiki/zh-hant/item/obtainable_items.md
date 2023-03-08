@@ -2,8 +2,8 @@
 
 <!-- images or urls list for this page -->
 [地圖寶箱]:  wiki/zh-hant/map/chest_locations
-[Alchemy]: wiki/zh-hant/item/recipes
-[Mining Point]: wiki/zh-hant/map/gathering_locations
+[錬金術]: wiki/zh-hant/item/recipes
+[採集點]: wiki/zh-hant/map/gathering_locations
 
 ### 貴重品 :id=v
 

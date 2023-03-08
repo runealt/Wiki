@@ -1,8 +1,8 @@
 ### エンハンサー :id=enhancer
 
-<!-- images or urls list for this page -->
+<!-- このマークを使用しページ内のURLをリダイレクト可能 -->
+[マップ宝箱]: wiki/ja/map/chest_locations
 [COST]: ../../../assets/images/wiki/table_of_contents/COST.png
-[地圖寶箱]:  wiki/zh-hant/map/chest_locations
 
 | エンハンサー名 | 說明 | コスト | 取得方法 |
 |---|---|---|---|

@@ -13,7 +13,7 @@
 - マップ
   - [マップ](wiki/ja/map/area_map) 
   - [沸きポイント](wiki/ja/map/battle_locations) 
-  - [沸きポイント](wiki/ja/map/gathering_locations) 
+  - [採掘ポイント](wiki/ja/map/gathering_locations) 
   - [マップ宝箱](wiki/ja/map/chest_locations) 
   - [魔物一覧](wiki/ja/map/enemy_list) 
 - ストーリー

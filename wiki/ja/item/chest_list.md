@@ -191,13 +191,13 @@
 		<td style="">金鉱石★x3</td>
 </tr>
 <tr class="atwiki_tr_odd atwiki_tr_63">
-		<td style=""><span style="color: #F54738;">紅色綠柱石★=0</span></td>
+		<td style=""><span style="color: #F54738;">レッドベリル★=0</span></td>
 </tr>
 <tr class="atwiki_tr_even atwiki_tr_64">
 		<td style="">金鉱石★★x4</td>
 </tr>
 <tr class="atwiki_tr_odd atwiki_tr_65">
-		<td style=""><span style="color: #F54738;">摩根石★=0</span></td>
+		<td style=""><span style="color: #F54738;">モルガナイト★=0</span></td>
 </tr>
 <tr class="atwiki_tr_even atwiki_tr_66">
 		<td style="">クロム★x3</td>

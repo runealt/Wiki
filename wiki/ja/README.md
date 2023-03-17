@@ -3,7 +3,7 @@
 Alice In Cradleとは「 KAWAISOU is KAWAII 」かわいそうはかわいいのモットーで作成された、
 ひなゆあ、橋野みずは開発のソフトめなリョナと異種姦メインの成人向け探索型2D ACTゲーム。
 
-!>このWIKIの情報は<font color=#56bcf9>ひなゆあ</font>と<font color=#f6c5cb>橋野みずは</font>の許可を得て整理された。
+!>このWIKIの情報及び画像は<font color=#56bcf9>ひなゆあ</font>と<font color=#f6c5cb>橋野みずは</font>の許可を得て作成されています。
 
 ### 関連サイト
 
